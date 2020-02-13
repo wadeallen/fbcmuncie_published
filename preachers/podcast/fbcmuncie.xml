@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preachers on First Baptist Church Muncie</title>
+    <link>https://2020.fbcmuncie.org/preachers/</link>
+    <description>Recent content in preachers on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://2020.fbcmuncie.org/preachers/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wade Allen</title>
+      <link>https://2020.fbcmuncie.org/wade-allen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/wade-allen/</guid>
+      <description>Wade is the Pastor at First Baptist.</description>
+    </item>
+    
+    <item>
+      <title>David Fitch</title>
+      <link>https://2020.fbcmuncie.org/david-fitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/david-fitch/</guid>
+      <description>David Fitch is B. R. Lindner Chair of Evangelical Theology at Northern Seminary Chicago, IL.</description>
+    </item>
+    
+  </channel>
+</rss>
