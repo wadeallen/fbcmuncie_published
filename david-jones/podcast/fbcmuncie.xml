@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Jones on First Baptist Church Muncie</title>
+    <link>https://2020.fbcmuncie.org/david-jones/</link>
+    <description>Recent content in David Jones on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://2020.fbcmuncie.org/david-jones/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exodus 17</title>
+      <link>https://2020.fbcmuncie.org/blog/2014/03/23/exodus-17/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/blog/2014/03/23/exodus-17/</guid>
+      <description>David Jones preached from Exodus 17:1-7.</description>
+    </item>
+    
+    <item>
+      <title>Palm Sunday</title>
+      <link>https://2020.fbcmuncie.org/blog/2013/03/24/palm-sunday/</link>
+      <pubDate>Sun, 24 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/blog/2013/03/24/palm-sunday/</guid>
+      <description>David Jones and students from the Oasis Ministry share on Palm Sunday.</description>
+    </item>
+    
+  </channel>
+</rss>

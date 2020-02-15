@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Headley on First Baptist Church Muncie</title>
+    <link>https://2020.fbcmuncie.org/matthew-headley/</link>
+    <description>Recent content in Matthew Headley on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://2020.fbcmuncie.org/matthew-headley/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John the Baptist</title>
+      <link>https://2020.fbcmuncie.org/blog/2014/01/19/john-the-baptist/</link>
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/blog/2014/01/19/john-the-baptist/</guid>
+      <description>John the Baptist is one of the most enigmatic characters of the New Testament.</description>
+    </item>
+    
+  </channel>
+</rss>

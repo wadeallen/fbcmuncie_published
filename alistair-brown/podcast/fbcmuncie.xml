@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistair Brown on First Baptist Church Muncie</title>
+    <link>https://2020.fbcmuncie.org/alistair-brown/</link>
+    <description>Recent content in Alistair Brown on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://2020.fbcmuncie.org/alistair-brown/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pastor Celebration Sunday</title>
+      <link>https://2020.fbcmuncie.org/blog/2013/05/19/pastor-celebration-sunday/</link>
+      <pubDate>Sun, 19 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/blog/2013/05/19/pastor-celebration-sunday/</guid>
+      <description>In June 2012, Wade graduated from Northern Seminary with the Doctor of Ministry degree.</description>
+    </item>
+    
+  </channel>
+</rss>
