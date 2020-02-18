@@ -6,10 +6,19 @@
     <description>Recent content in Worships on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://2020.fbcmuncie.org/worship/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Risen</title>
+      <link>https://2020.fbcmuncie.org/worship/2020-04-12-risen/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/worship/2020-04-12-risen/</guid>
+      <description>It is Resurrection Sunday and we gather to celebrate the Risen Christ.</description>
+    </item>
     
     <item>
       <title>Surrender: Death</title>
