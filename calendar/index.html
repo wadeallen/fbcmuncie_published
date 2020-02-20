@@ -16,13 +16,60 @@
     
     
     
-    <link id="libs-css" rel="stylesheet" href="/css/libs-css.js">
+    <link id="libs-css" rel="stylesheet" href="/css/libs-css.css">
 
   
 
    
 
+
    
+   
+   
+   
+   
+   <link id="fc-css" rel="stylesheet" href="/css/fc-css.css">
+
+   
+   
+   
+   
+   
+   
+   
+   <script src="/css/fc-js.css"></script>
+
+   <script type='text/javascript'>
+
+          document.addEventListener('DOMContentLoaded', function() {
+            var calendarEl = document.getElementById('calendar');
+
+            var calendar = new FullCalendar.Calendar(calendarEl, {
+              plugins: [ 'bootstrap', 'list', 'dayGrid', 'googleCalendar' ],
+
+              defaultView: 'dayGridMonth',
+              eventColor: '#704e42',
+
+              googleCalendarApiKey: 'AIzaSyBYnsHzcoT2gZCyMaW72S1NbxPEifFX-5s',
+              eventSources: [
+                {
+                googleCalendarId:'fbcmuncie.org_oamafcbnnsdl356288bd7hka84@group.calendar.google.com', 
+                className: 'gcal-church-event' 
+                },
+                {
+                googleCalendarId:'fbcmuncie.org_nsm5cibhj5umek2s44149brfqo@group.calendar.google.com', 
+                className: 'gcal-building-event' 
+                }
+                ],
+                eventClick: function(info) {
+                    info.jsEvent.preventDefault(); 
+                  }
+            });
+
+            calendar.render();
+          });
+
+    </script>
 
    
 
@@ -31,7 +78,7 @@
 
     
     
-    <link rel="stylesheet" href="/scss/theme.min.e7d4ef9f67e42da6d68a6100f64b5095997a0b713a7b55a7b73c2f729650196f.css">
+    <link rel="stylesheet" href="/scss/theme.min.926746edaf599b2d3b338f9a84fae92037a735fc4f2f8cc06f160257ce26d562.css">
 
     <title>First Baptist Church Muncie</title>
 
@@ -202,8 +249,8 @@
           </ul>
 
           
-          <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/contact"target="_blank">
-            Contact Us
+          <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="/contact">
+            Contact
           </a>
 
         </div>
@@ -213,10 +260,11 @@
 
  
 
-    <section class="pt-8 pt-md-11">
+ 
+    <section data-jarallax data-speed=".8" class="pt-10 pt-md-12 pb-2 pb-md-2 bg-cover jarallax" style="margin-top: -83px;">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-lg-9 col-xl-8">
+          <div class="col-12 col-md-10 col-lg-7 text-center">
 
             
             <h1 class="display-4 text-center">
@@ -233,20 +281,13 @@
       </div> 
     </section>
 
-    <section class="pt-6 pt-md-8 mb-8">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-lg-9 col-xl-8">
+<div class="container mb-10">
 
-            
-             
+  <div id='calendar'></div>
 
-          </div>
-        </div> 
-      </div> 
-    </section>
+</div>
 
-
+    
 
     
     <div class="position-relative">
@@ -486,7 +527,7 @@
 
 
      
-    <script src="/js/libsjs2.js"></script>
+    <script src="/js/libsjs.js"></script>
 
     
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
