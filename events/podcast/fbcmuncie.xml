@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on First Baptist Church Muncie</title>
+    <link>https://2020.fbcmuncie.org/events/</link>
+    <description>Recent content in Events on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://2020.fbcmuncie.org/events/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Church Friends’ Lunch Set for March 8</title>
+      <link>https://2020.fbcmuncie.org/events/church-friends-lunch-set-for-march-8/</link>
+      <pubDate>Sun, 08 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/church-friends-lunch-set-for-march-8/</guid>
+      <description>On Sunday, March 8, after the combined service, the following people will gather in the lower auditorium to share lunch: church friends, the Taylor Gospel Choir members who will sing in our service, and people you don’t know from both services.</description>
+    </item>
+    
+    <item>
+      <title>Children Involved in Service as Northern Seminary President Preaches</title>
+      <link>https://2020.fbcmuncie.org/events/children-involved-in-service-as-northern-seminary-president-preaches/</link>
+      <pubDate>Sun, 08 Mar 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/children-involved-in-service-as-northern-seminary-president-preaches/</guid>
+      <description>On Sunday, March 8, we will gather in a special combined service at 10:45 AM as we welcome the president of Northern Seminary.</description>
+    </item>
+    
+  </channel>
+</rss>
