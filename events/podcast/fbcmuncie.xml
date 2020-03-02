@@ -6,10 +6,19 @@
     <description>Recent content in Events on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 15:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://2020.fbcmuncie.org/events/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CCT Meeting</title>
+      <link>https://2020.fbcmuncie.org/events/cct-meeting/</link>
+      <pubDate>Tue, 17 Mar 2020 15:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/cct-meeting/</guid>
+      <description>The next CCT Meeting is scheduled for Tuesday, March 17, at 7:00 PM in the church office.</description>
+    </item>
     
     <item>
       <title>Church Friends’ Lunch Set for March 8</title>
