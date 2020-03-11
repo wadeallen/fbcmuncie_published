@@ -6,10 +6,28 @@
     <description>Recent content in Events on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2020 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 08:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://2020.fbcmuncie.org/events/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Easter Pilgrimage</title>
+      <link>https://2020.fbcmuncie.org/events/easter-pilgrimage/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/easter-pilgrimage/</guid>
+      <description>The cost of the trip is $95.</description>
+    </item>
+    
+    <item>
+      <title>Senior Adult Day in April</title>
+      <link>https://2020.fbcmuncie.org/events/senior-adult-day-in-april/</link>
+      <pubDate>Sun, 12 Apr 2020 08:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/senior-adult-day-in-april/</guid>
+      <description>Reservations due by Sunday, March 15.</description>
+    </item>
     
     <item>
       <title>CCT Meeting</title>
@@ -17,7 +35,7 @@
       <pubDate>Tue, 17 Mar 2020 19:00:00 +0000</pubDate>
       
       <guid>https://2020.fbcmuncie.org/events/cct-meeting/</guid>
-      <description>The next CCT Meeting is scheduled for Tuesday, March 17, at 7:00 PM in the church office.</description>
+      <description></description>
     </item>
     
   </channel>
