@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on First Baptist Church Muncie</title>
-    <link>https://2020.fbcmuncie.org/news/</link>
+    <link>https://fbcmuncie.org/news/</link>
     <description>Recent content in News on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://2020.fbcmuncie.org/news/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fbcmuncie.org/news/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Candy Donations</title>
-      <link>https://2020.fbcmuncie.org/news/candy-donations/</link>
+      <link>https://fbcmuncie.org/news/candy-donations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://2020.fbcmuncie.org/news/candy-donations/</guid>
+      <guid>https://fbcmuncie.org/news/candy-donations/</guid>
       <description>Easter is right around the corner, and we are in need of candy donations for our annual children&amp;rsquo;s Easter Egg Hunt!</description>
     </item>
     
     <item>
       <title>Easter Lilies</title>
-      <link>https://2020.fbcmuncie.org/news/easter-lilies/</link>
+      <link>https://fbcmuncie.org/news/easter-lilies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://2020.fbcmuncie.org/news/easter-lilies/</guid>
+      <guid>https://fbcmuncie.org/news/easter-lilies/</guid>
       <description>If you would like to order Easter lilies in honor or in memory of a loved one, please include the following information along with a $10 check: number of lilies ordered, your name, the name of the person honored or memorialized, and whether the order is in honor or in memory.</description>
     </item>
     
     <item>
       <title>Sunday Morning Study</title>
-      <link>https://2020.fbcmuncie.org/news/sunday-morning-study/</link>
+      <link>https://fbcmuncie.org/news/sunday-morning-study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://2020.fbcmuncie.org/news/sunday-morning-study/</guid>
+      <guid>https://fbcmuncie.org/news/sunday-morning-study/</guid>
       <description>Are you looking for a good way to connect with other adults on Sunday mornings?</description>
     </item>
     
