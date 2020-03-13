@@ -6,7 +6,7 @@
     <description>Recent content in Events on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2020 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://2020.fbcmuncie.org/events/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
@@ -17,16 +17,16 @@
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://2020.fbcmuncie.org/events/easter-pilgrimage/</guid>
-      <description>The cost of the trip is $95.</description>
+      <description>Cost includes buffet, show and coach and driver.</description>
     </item>
     
     <item>
       <title>Senior Adult Day in April</title>
       <link>https://2020.fbcmuncie.org/events/senior-adult-day-in-april/</link>
-      <pubDate>Sun, 12 Apr 2020 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2020 08:00:00 +0000</pubDate>
       
       <guid>https://2020.fbcmuncie.org/events/senior-adult-day-in-april/</guid>
-      <description>Reservations due by Sunday, March 15.</description>
+      <description>The cost is $10. If you pay at the door it is $12.</description>
     </item>
     
     <item>
@@ -35,6 +35,24 @@
       <pubDate>Tue, 17 Mar 2020 19:00:00 +0000</pubDate>
       
       <guid>https://2020.fbcmuncie.org/events/cct-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easter Sunday</title>
+      <link>https://2020.fbcmuncie.org/events/easter-sunday/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/easter-sunday/</guid>
+      <description>We will gather in both our 9:15 AM and 10:45 AM services on Easter Sunday.</description>
+    </item>
+    
+    <item>
+      <title>Good Friday Service</title>
+      <link>https://2020.fbcmuncie.org/events/good-friday-service/</link>
+      <pubDate>Fri, 10 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://2020.fbcmuncie.org/events/good-friday-service/</guid>
       <description></description>
     </item>
     
