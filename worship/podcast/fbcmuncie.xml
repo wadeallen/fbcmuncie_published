@@ -6,10 +6,19 @@
     <description>Recent content in Worships on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fbcmuncie.org/worship/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loving Our Enemies</title>
+      <link>https://fbcmuncie.org/worship/2020-07-05-loving-our-enemies/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2020-07-05-loving-our-enemies/</guid>
+      <description>Jesus continues to challenge us in the Sermon on the Mount.</description>
+    </item>
     
     <item>
       <title>Turn the Other Cheek</title>
@@ -63,15 +72,6 @@
       
       <guid>https://fbcmuncie.org/worship/2020-05-24-anger/</guid>
       <description>As Jesus expands and fulfills the Law, he addresses specific topics.</description>
-    </item>
-    
-    <item>
-      <title>The Law</title>
-      <link>https://fbcmuncie.org/worship/2020-05-17-the-law/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fbcmuncie.org/worship/2020-05-17-the-law/</guid>
-      <description>In Matthew 5:17-20, Jesus warns against throwing out the Old Testament in light of his life and ministry.</description>
     </item>
     
   </channel>
