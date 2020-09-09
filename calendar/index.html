@@ -70,60 +70,6 @@
   
   <link href="https://fbcmuncie.org/css/all.min.css" rel="stylesheet">
 
-  
-
-   
-
-
-   
-   
-   
-   
-   
-   <link id="fc-css" rel="stylesheet" href="https://fbcmuncie.org/css/fc-css.css">
-
-   
-   
-   
-   
-   
-   
-   
-   <script src="https://fbcmuncie.org/css/fc-js.css"></script>
-
-   <script type='text/javascript'>
-
-          document.addEventListener('DOMContentLoaded', function() {
-            var calendarEl = document.getElementById('calendar');
-
-            var calendar = new FullCalendar.Calendar(calendarEl, {
-              plugins: [ 'bootstrap', 'list', 'dayGrid', 'googleCalendar' ],
-
-              defaultView: 'dayGridMonth',
-              eventColor: '#704e42',
-
-              googleCalendarApiKey: 'AIzaSyBYnsHzcoT2gZCyMaW72S1NbxPEifFX-5s',
-              eventSources: [
-                {
-                googleCalendarId:'fbcmuncie.org_oamafcbnnsdl356288bd7hka84@group.calendar.google.com', 
-                className: 'gcal-church-event' 
-                },
-                {
-                googleCalendarId:'fbcmuncie.org_nsm5cibhj5umek2s44149brfqo@group.calendar.google.com', 
-                className: 'gcal-building-event' 
-                }
-                ],
-                eventClick: function(info) {
-                    info.jsEvent.preventDefault(); 
-                  }
-            });
-
-            calendar.render();
-          });
-
-    </script>
-
-   
 
    
   
@@ -317,11 +263,10 @@
 
  
 
- 
-    <section data-jarallax data-speed=".8" class="pt-10 pt-md-12 pb-2 pb-md-2 bg-cover jarallax" style="margin-top: -83px;">
+       <section class="pt-8 pt-md-11">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-lg-7 text-center">
+          <div class="col-12 col-md-10 col-lg-9 col-xl-8">
 
             
             <h1 class="display-4 text-center">
@@ -338,11 +283,30 @@
       </div> 
     </section>
 
-<div class="container mb-10">
+    <section class="pt-6 pt-md-8 mb-8">
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-10 col-lg-9 col-xl-8">
 
-  <div id='calendar'></div>
-
+<div id="resources_calendar_widget" class="styled">
+  <div class="loader">Loading...</div>
 </div>
+<script type="text/javascript">
+  (function(){
+    var rs = document.createElement("script");
+    rs.type = "text/javascript";
+    rs.async = true;
+    rs.src = "//calendar.planningcenteronline.com/widgets/eJxj4ajmsGLLz2TSZLLiSi3OLygB8Ys9lfgTc3LiU8tS80qK2azYXEOs2EozmbbPs2IvK_FU4gNJlmTmphazWXOEWHEXJBYl5hZXMwAAReYWtA==c309975de7f25efcb6ca7b143d9698978a7688b7.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(rs,s);
+  })();
+</script>
+
+          </div>
+        </div> 
+      </div> 
+    </section>
+
 
     
 
