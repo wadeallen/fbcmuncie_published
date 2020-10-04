@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Britney Sue on First Baptist Church Muncie</title>
+    <link>https://fbcmuncie.org/britney-sue/</link>
+    <description>Recent content in Britney Sue on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://fbcmuncie.org/britney-sue/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Children</title>
+      <link>https://fbcmuncie.org/children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/children/</guid>
+      <description>Welcome Back Children&amp;rsquo;s Ministry has resumed at First Baptist Muncie as of September 13, 2020.</description>
+    </item>
+    
+    <item>
+      <title>VBS 2020</title>
+      <link>https://fbcmuncie.org/blog/2020/06/08/vbs-2020/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/08/vbs-2020/</guid>
+      <description>Hi FBC families!
+We are so excited to announce that VBS WILL BE HAPPENING this year!</description>
+    </item>
+    
+  </channel>
+</rss>
