@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fbcmuncie.org/news/dont-be-too-early/</loc>
+  </url>
+  
+  <url>
     <loc>https://fbcmuncie.org/wade-allen/</loc>
     <lastmod>2020-02-18T16:50:18-05:00</lastmod>
   </url>
@@ -165,10 +169,6 @@
   <url>
     <loc>https://fbcmuncie.org/news/in-person-check-ins/</loc>
     <lastmod>2020-10-25T13:56:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fbcmuncie.org/news/dont-be-too-early/</loc>
   </url>
   
   <url>
@@ -753,6 +753,7 @@
   
   <url>
     <loc>https://fbcmuncie.org/app-content/</loc>
+    <lastmod>2020-10-29T13:10:28-04:00</lastmod>
   </url>
   
   <url>
