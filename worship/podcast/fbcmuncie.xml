@@ -6,7 +6,11 @@
     <description>Recent content in Worships on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fbcmuncie.org/worship/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fbcmuncie.org/worship/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>New Birth</title>
       <link>https://fbcmuncie.org/worship/2021-01-24-new-birth/</link>
@@ -22,7 +26,7 @@
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fbcmuncie.org/worship/2021-01-17-the-first-miracle/</guid>
-      <description>Jesus&#39; first miracle or sign was the changing of water to wine at the wedding of a close relative or family friend.</description>
+      <description>Jesus&amp;rsquo; first miracle or sign was the changing of water to wine at the wedding of a close relative or family friend.</description>
     </item>
     
     <item>

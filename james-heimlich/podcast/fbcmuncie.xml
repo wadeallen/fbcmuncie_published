@@ -5,7 +5,11 @@
     <link>https://fbcmuncie.org/james-heimlich/</link>
     <description>Recent content in James Heimlich on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fbcmuncie.org/james-heimlich/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://fbcmuncie.org/james-heimlich/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Facing the New Year</title>
       <link>https://fbcmuncie.org/worship/2020-12-27-facing-the-new-year/</link>

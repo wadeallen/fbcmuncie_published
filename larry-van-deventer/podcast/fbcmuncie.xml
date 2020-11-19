@@ -5,6 +5,10 @@
     <link>https://fbcmuncie.org/larry-van-deventer/</link>
     <description>Recent content in Larry Van Deventer on First Baptist Church Muncie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fbcmuncie.org/larry-van-deventer/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://fbcmuncie.org/larry-van-deventer/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
