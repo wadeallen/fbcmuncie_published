@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Anderson on First Baptist Church Muncie</title>
+    <link>https://fbcmuncie.org/emily-anderson/</link>
+    <description>Recent content in Emily Anderson on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fbcmuncie.org/emily-anderson/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
