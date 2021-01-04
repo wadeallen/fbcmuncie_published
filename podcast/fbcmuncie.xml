@@ -1,1059 +1,1320 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-<channel>
-
-<itunes:new-feed-url>http://fbcmuncie.org/podcast/fbcmuncie.xml</itunes:new-feed-url>
-<title>First Baptist Church Muncie Indiana</title>
-<description>Sermons from First Baptist Church Muncie Indiana</description>
-<link>http://fbcmuncie.org</link>
-<language>en-us</language>
-<copyright>Copyright 2021</copyright>
-<lastBuildDate>Sat, 02 Jan 2021 11:09:52 EST</lastBuildDate>
-<pubDate>Sat, 02 Jan 2021 11:09:52 EST</pubDate>
-<docs>http://fbcmuncie.org</docs>
-<webMaster>wade@fbcmuncie.org (Wade Allen)</webMaster>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:subtitle>Sermons from First Baptist Church Muncie Indiana</itunes:subtitle>
-<itunes:summary>This podcast includes sermons from First Baptist Church in Muncie, Indiana.</itunes:summary>
-<itunes:owner>
-       <itunes:name>Wade Allen</itunes:name>
-       <itunes:email>wade@fbcmuncie.org</itunes:email>
-</itunes:owner>
-<itunes:explicit>No</itunes:explicit>
-<itunes:image href="http://fbcmuncie.org/images/fbc_podcast_logo.png"/>
-<itunes:category text="Religion and Spirituality">
-     <itunes:category text="Christianity"/>
-</itunes:category>
-
-
-
-
-<item>
-<title>Facing the New Year</title>
-<link>https://fbcmuncie.org/video/2020/12/27/facing-the-new-year/</link>
-<guid>http://audio.fbcmuncie.org/2020-12-27.mp3</guid>
-<description>As we come to the end of 2020 and all of the unique challenges and tragedies it brought, many cannot help but look at 2021 with continued fear and anxiety. Jesus, in Luke 12, reminds us that our worry and fear is misplaced because God is in charge and He provides for us in all things.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-12-27.mp3" length="48842273" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 27 Dec 2020 16:15:00 EST</pubDate>
-<itunes:author>James Heimlich</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we come to the end of 2020 and all of the unique challenges and tragedies it brought, many cannot help but look at 2021 with continued fear and anxiety. Jesus, in Luke 12, reminds us that our worry and fear is misplaced because God is in charge and He provides for us in all things.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>As we come to the end of 2020 and all of the unique challenges and tragedies it brought, many cannot help but look at 2021 with continued fear and anxiety. Jesus, in Luke 12, reminds us that our worry and fear is misplaced because God is in charge and He provides for us in all things.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:33:55</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Mary</title>
-<link>https://fbcmuncie.org/video/2020/12/20/mary/</link>
-<guid>http://audio.fbcmuncie.org/2020-12-20.mp3</guid>
-<description>In this final Sunday of Advent, we consider the extreme faith and submission of Mary. Mary is visited by the angel Gabriel and told that her life is about to dramatically change. His news must have been disturbing and filled with uncertainty. May we be challenged to live in the same sort of all-out trust in God&amp;rsquo;s movement in our lives.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-12-20.mp3" length="40082074" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 20 Dec 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In this final Sunday of Advent, we consider the extreme faith and submission of Mary. Mary is visited by the angel Gabriel and told that her life is about to dramatically change. His news must have been disturbing and filled with uncertainty. May we be challenged to live in the same sort of all-out trust in God&amp;rsquo;s movement in our lives.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>In this final Sunday of Advent, we consider the extreme faith and submission of Mary. Mary is visited by the angel Gabriel and told that her life is about to dramatically change. His news must have been disturbing and filled with uncertainty. May we be challenged to live in the same sort of all-out trust in God&amp;rsquo;s movement in our lives.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:27:50</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Beauty for Ashes</title>
-<link>https://fbcmuncie.org/video/2020/12/13/beauty-for-ashes/</link>
-<guid>http://audio.fbcmuncie.org/2020-12-13.mp3</guid>
-<description>The prophet speaks of the coming Messiah as one who will seal the covenant of God with His people. This covenant is rooted in the character of God and provides a permanence that is beyond our performance.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-12-13.mp3" length="28700354" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 13 Dec 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The prophet speaks of the coming Messiah as one who will seal the covenant of God with His people. This covenant is rooted in the character of God and provides a permanence that is beyond our performance.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>The prophet speaks of the coming Messiah as one who will seal the covenant of God with His people. This covenant is rooted in the character of God and provides a permanence that is beyond our performance.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>00:19:56</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Revealed Glory</title>
-<link>https://fbcmuncie.org/video/2020/12/06/revealed-glory/</link>
-<guid>http://audio.fbcmuncie.org/2020-12-06.mp3</guid>
-<description>In this season of Advent, we celebrate the coming of Jesus. In Isaiah 40, the prophet reminds the people that God deeply desires to rescue them. The prophet declares that God is making a highway to rescue us, we are incapable of our own rescue (we are grass), and God&amp;rsquo;s promise is good news for us.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-12-06.mp3" length="35210741" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 06 Dec 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In this season of Advent, we celebrate the coming of Jesus. In Isaiah 40, the prophet reminds the people that God deeply desires to rescue them. The prophet declares that God is making a highway to rescue us, we are incapable of our own rescue (we are grass), and God&amp;rsquo;s promise is good news for us.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>In this season of Advent, we celebrate the coming of Jesus. In Isaiah 40, the prophet reminds the people that God deeply desires to rescue them. The prophet declares that God is making a highway to rescue us, we are incapable of our own rescue (we are grass), and God&amp;rsquo;s promise is good news for us.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:24:27</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Potter</title>
-<link>https://fbcmuncie.org/video/2020/11/29/the-potter/</link>
-<guid>http://audio.fbcmuncie.org/2020-11-29.mp3</guid>
-<description>Advent is the season of waiting, yearning for God to show up. The Old Testament prophets lived in the tension of two truths. God is able to deliver His people. Yet, His people are in terrible shape. Are they beyond repair? Why would God respond to a people so far gone? It is in this tension that Isaiah calls for God to respond. In Isaiah 64, Isaiah pleads for God to do the impossible, to redeem His people.
-Full Live Stream Video   Pre-K   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-11-29.mp3" length="31538249" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 29 Nov 2020 16:15:00 EST</pubDate>
-<itunes:author>William Eidson</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Advent is the season of waiting, yearning for God to show up. The Old Testament prophets lived in the tension of two truths. God is able to deliver His people. Yet, His people are in terrible shape. Are they beyond repair? Why would God respond to a people so far gone? It is in this tension that Isaiah calls for God to respond. In Isaiah 64, Isaiah pleads for God to do the impossible, to redeem His people.
-Full Live Stream Video   Pre-K   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>Advent is the season of waiting, yearning for God to show up. The Old Testament prophets lived in the tension of two truths. God is able to deliver His people. Yet, His people are in terrible shape. Are they beyond repair? Why would God respond to a people so far gone? It is in this tension that Isaiah calls for God to respond. In Isaiah 64, Isaiah pleads for God to do the impossible, to redeem His people.
-Full Live Stream Video   Pre-K   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:21:54</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>A Thankful Heart: Part 3</title>
-<link>https://fbcmuncie.org/video/2020/11/22/a-thankful-heart-part-3/</link>
-<guid>http://audio.fbcmuncie.org/2020-11-22.mp3</guid>
-<description>As we approach Thanksgiving this week, it might be easy to lament the many trials of 2020. However, as we consider the many blessings, even through the difficulties, we can enter this season with a heart of gratitude.
-K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-11-22.mp3" length="87602690" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 22 Nov 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we approach Thanksgiving this week, it might be easy to lament the many trials of 2020. However, as we consider the many blessings, even through the difficulties, we can enter this season with a heart of gratitude.
-K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>As we approach Thanksgiving this week, it might be easy to lament the many trials of 2020. However, as we consider the many blessings, even through the difficulties, we can enter this season with a heart of gratitude.
-K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>1:00:50</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>A Thankful Heart: Part 2</title>
-<link>https://fbcmuncie.org/video/2020/11/15/a-thankful-heart-part-2/</link>
-<guid>http://audio.fbcmuncie.org/2020-11-15.mp3</guid>
-<description>As we continue a brief series on gratitude, we consider Mary&amp;rsquo;s heart of thankfulness expressed in her response to the news of her pregnancy. Mary&amp;rsquo;s response challenges us toward a similar posture in our uncertain times.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-11-15.mp3" length="52370613" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 15 Nov 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we continue a brief series on gratitude, we consider Mary&amp;rsquo;s heart of thankfulness expressed in her response to the news of her pregnancy. Mary&amp;rsquo;s response challenges us toward a similar posture in our uncertain times.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>As we continue a brief series on gratitude, we consider Mary&amp;rsquo;s heart of thankfulness expressed in her response to the news of her pregnancy. Mary&amp;rsquo;s response challenges us toward a similar posture in our uncertain times.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:36:22</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>A Thankful Heart: Part 1</title>
-<link>https://fbcmuncie.org/video/2020/11/08/a-thankful-heart-part-1/</link>
-<guid>http://audio.fbcmuncie.org/2020-11-08.mp3</guid>
-<description>The psalmist in chapter 107 instructs the reader to thank God for his intense love and marvelous deeds. Too often, we go about our days neglecting to give God credit for who He is and what he has done. As we consider this text, we are challenged to live lives with a thankful heart.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-11-08.mp3" length="47306329" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 08 Nov 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The psalmist in chapter 107 instructs the reader to thank God for his intense love and marvelous deeds. Too often, we go about our days neglecting to give God credit for who He is and what he has done. As we consider this text, we are challenged to live lives with a thankful heart.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>The psalmist in chapter 107 instructs the reader to thank God for his intense love and marvelous deeds. Too often, we go about our days neglecting to give God credit for who He is and what he has done. As we consider this text, we are challenged to live lives with a thankful heart.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:32:51</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Plank Eye</title>
-<link>https://fbcmuncie.org/video/2020/11/01/plank-eye/</link>
-<guid>http://audio.fbcmuncie.org/2020-11-01.mp3</guid>
-<description>As Jesus instructs his followers in Kingdom living, he uses a dramatic illustration. We are walking around attempting to remove specks from the eyes of others while a plank protrudes from our own eye. In turn, we should treat others the way we would want to be treated.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-11-01.mp3" length="39049917" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 01 Nov 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As Jesus instructs his followers in Kingdom living, he uses a dramatic illustration. We are walking around attempting to remove specks from the eyes of others while a plank protrudes from our own eye. In turn, we should treat others the way we would want to be treated.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:subtitle>
-<itunes:summary>As Jesus instructs his followers in Kingdom living, he uses a dramatic illustration. We are walking around attempting to remove specks from the eyes of others while a plank protrudes from our own eye. In turn, we should treat others the way we would want to be treated.
-Full Live Stream Video   K-2nd Grade   3rd-5th Grade   </itunes:summary>
-<itunes:duration>0:27:07</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Worry</title>
-<link>https://fbcmuncie.org/video/2020/10/25/worry/</link>
-<guid>http://audio.fbcmuncie.org/2020-10-25.mp3</guid>
-<description>Jesus uses tangible, visible illustrations to remind us of God&amp;rsquo;s provision in our lives. The birds of the air and the plants in the fields (flowers and grass) have all they need. Our Father cares for them and provides for them. As far more valuable creations, we can trust God to care for us. Jesus instructs us to relinquish our worry and place our faith in God&amp;rsquo;s supplying our essential needs, focusing our energy instead on the Kingdom of God.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-10-25.mp3" length="38618090" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 25 Oct 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus uses tangible, visible illustrations to remind us of God&amp;rsquo;s provision in our lives. The birds of the air and the plants in the fields (flowers and grass) have all they need. Our Father cares for them and provides for them. As far more valuable creations, we can trust God to care for us. Jesus instructs us to relinquish our worry and place our faith in God&amp;rsquo;s supplying our essential needs, focusing our energy instead on the Kingdom of God.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>Jesus uses tangible, visible illustrations to remind us of God&amp;rsquo;s provision in our lives. The birds of the air and the plants in the fields (flowers and grass) have all they need. Our Father cares for them and provides for them. As far more valuable creations, we can trust God to care for us. Jesus instructs us to relinquish our worry and place our faith in God&amp;rsquo;s supplying our essential needs, focusing our energy instead on the Kingdom of God.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:26:49</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Treasure</title>
-<link>https://fbcmuncie.org/video/2020/10/18/treasure/</link>
-<guid>http://audio.fbcmuncie.org/2020-10-18.mp3</guid>
-<description>Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-10-18.mp3" length="38930602" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 18 Oct 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>Jesus instructs us to be careful where we place our stockpiles, our treasures. He instructs us to build them in eternal places. As we do so, our hearts will gravitate toward those places.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:27:02</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Fasting 101</title>
-<link>https://fbcmuncie.org/video/2020/10/11/fasting-101/</link>
-<guid>http://audio.fbcmuncie.org/2020-10-11.mp3</guid>
-<description>Jesus continues to challenge the motives of our spiritual practices. In Matthew 6:6-18, he speaks of the fasting of the hypocrites. Through this study, we learn the purpose and manner of fasting. May God challenge our intentions of our spiritual disciplines.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Grade Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-10-11.mp3" length="38954292" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 11 Oct 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus continues to challenge the motives of our spiritual practices. In Matthew 6:6-18, he speaks of the fasting of the hypocrites. Through this study, we learn the purpose and manner of fasting. May God challenge our intentions of our spiritual disciplines.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Grade Sunday School   </itunes:subtitle>
-<itunes:summary>Jesus continues to challenge the motives of our spiritual practices. In Matthew 6:6-18, he speaks of the fasting of the hypocrites. Through this study, we learn the purpose and manner of fasting. May God challenge our intentions of our spiritual disciplines.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Grade Sunday School   </itunes:summary>
-<itunes:duration>0:27:03</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Lord&#39;s Prayer</title>
-<link>https://fbcmuncie.org/video/2020/10/04/the-lords-prayer/</link>
-<guid>http://audio.fbcmuncie.org/2020-10-04.mp3</guid>
-<description>In Matthew 6:5-15, Jesus teaches us how to pray. While this seems like an interruption to Jesus&amp;rsquo; point of humility in righteous acts, it helps up properly address our father who loves us and knows what we need.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-10-04.mp3" length="53714256" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 04 Oct 2020 16:15:00 EST</pubDate>
-<itunes:author>Caleb Rolling</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In Matthew 6:5-15, Jesus teaches us how to pray. While this seems like an interruption to Jesus&amp;rsquo; point of humility in righteous acts, it helps up properly address our father who loves us and knows what we need.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>In Matthew 6:5-15, Jesus teaches us how to pray. While this seems like an interruption to Jesus&amp;rsquo; point of humility in righteous acts, it helps up properly address our father who loves us and knows what we need.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:37:18</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Secret Place</title>
-<link>https://fbcmuncie.org/video/2020/09/27/the-secret-place/</link>
-<guid>http://audio.fbcmuncie.org/2020-09-27.mp3</guid>
-<description>As we continue in our series on the Sermon on the Mount, Jesus challenges our motivation in giving and praying. Are we doing righteous acts to highlight our spirituality. Are we attempting to impress those around us or are we simply focused on pleasing God. As we study Matthew 6:1-6, we are challenged by Jesus instructions to act in secret.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-09-27.mp3" length="39841997" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 27 Sep 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we continue in our series on the Sermon on the Mount, Jesus challenges our motivation in giving and praying. Are we doing righteous acts to highlight our spirituality. Are we attempting to impress those around us or are we simply focused on pleasing God. As we study Matthew 6:1-6, we are challenged by Jesus instructions to act in secret.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>As we continue in our series on the Sermon on the Mount, Jesus challenges our motivation in giving and praying. Are we doing righteous acts to highlight our spirituality. Are we attempting to impress those around us or are we simply focused on pleasing God. As we study Matthew 6:1-6, we are challenged by Jesus instructions to act in secret.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:27:40</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Loving Our Enemies</title>
-<link>https://fbcmuncie.org/video/2020/09/20/loving-our-enemies/</link>
-<guid>http://audio.fbcmuncie.org/2020-09-20.mp3</guid>
-<description>Jesus continues to challenge us in the Sermon on the Mount. In this week&amp;rsquo;s passage, we are commanded to love our enemies and pray for those who persecute us. As we take this action, we are enabled to grow up, mature in our faith.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-09-20.mp3" length="42770270" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 20 Sep 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus continues to challenge us in the Sermon on the Mount. In this week&amp;rsquo;s passage, we are commanded to love our enemies and pray for those who persecute us. As we take this action, we are enabled to grow up, mature in our faith.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>Jesus continues to challenge us in the Sermon on the Mount. In this week&amp;rsquo;s passage, we are commanded to love our enemies and pray for those who persecute us. As we take this action, we are enabled to grow up, mature in our faith.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:29:42</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Thank You</title>
-<link>https://fbcmuncie.org/video/2020/09/13/thank-you/</link>
-<guid>http://audio.fbcmuncie.org/2020-09-13.mp3</guid>
-<description>As Paul closes his letter to the church at Philippi. He reflects on the provisions received from Epaphroditus. He is careful to express his gratitude to God without encouraging a patron relationship that was so common in the first century. We can learn much from Paul&amp;rsquo;s understanding of financial support for spiritual leaders.
-Full Live Stream Video   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-09-13.mp3" length="40634551" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 13 Sep 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As Paul closes his letter to the church at Philippi. He reflects on the provisions received from Epaphroditus. He is careful to express his gratitude to God without encouraging a patron relationship that was so common in the first century. We can learn much from Paul&amp;rsquo;s understanding of financial support for spiritual leaders.
-Full Live Stream Video   </itunes:subtitle>
-<itunes:summary>As Paul closes his letter to the church at Philippi. He reflects on the provisions received from Epaphroditus. He is careful to express his gratitude to God without encouraging a patron relationship that was so common in the first century. We can learn much from Paul&amp;rsquo;s understanding of financial support for spiritual leaders.
-Full Live Stream Video   </itunes:summary>
-<itunes:duration>0:28:13</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Whatever Is</title>
-<link>https://fbcmuncie.org/video/2020/09/06/whatever-is/</link>
-<guid>http://audio.fbcmuncie.org/2020-09-06.mp3</guid>
-<description>As Paul instructs the church at Philippi to resist anxiety and accept the peace of God, he urges them to consider what they observe and meditate upon. He urges them to consider all that is true, noble, right, pure, lovely, admirable, excellent, and praiseworthy. As we consider these descriptions, we are challenged to do the same.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-09-06.mp3" length="34682173" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 06 Sep 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As Paul instructs the church at Philippi to resist anxiety and accept the peace of God, he urges them to consider what they observe and meditate upon. He urges them to consider all that is true, noble, right, pure, lovely, admirable, excellent, and praiseworthy. As we consider these descriptions, we are challenged to do the same.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:subtitle>
-<itunes:summary>As Paul instructs the church at Philippi to resist anxiety and accept the peace of God, he urges them to consider what they observe and meditate upon. He urges them to consider all that is true, noble, right, pure, lovely, admirable, excellent, and praiseworthy. As we consider these descriptions, we are challenged to do the same.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:summary>
-<itunes:duration>0:24:05</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Anxiety</title>
-<link>https://fbcmuncie.org/video/2020/08/30/anxiety/</link>
-<guid>http://audio.fbcmuncie.org/2020-08-30.mp3</guid>
-<description>Paul&amp;rsquo;s imprisonment is a difficult life circumstance; he is not sure if he will make it out alive. All the while, the church at Philippi is struggling with persecution and false teachers. It is into this context that Paul instructs the church to avoid anxiety by presenting their petitions to God. He assures them that God&amp;rsquo;s peace will overwhelm them and continue to protect them.
-Full Live Stream Video   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-08-30.mp3" length="28922218" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 30 Aug 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Paul&amp;rsquo;s imprisonment is a difficult life circumstance; he is not sure if he will make it out alive. All the while, the church at Philippi is struggling with persecution and false teachers. It is into this context that Paul instructs the church to avoid anxiety by presenting their petitions to God. He assures them that God&amp;rsquo;s peace will overwhelm them and continue to protect them.
-Full Live Stream Video   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Paul&amp;rsquo;s imprisonment is a difficult life circumstance; he is not sure if he will make it out alive. All the while, the church at Philippi is struggling with persecution and false teachers. It is into this context that Paul instructs the church to avoid anxiety by presenting their petitions to God. He assures them that God&amp;rsquo;s peace will overwhelm them and continue to protect them.
-Full Live Stream Video   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:20:05</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Unity</title>
-<link>https://fbcmuncie.org/video/2020/08/23/unity/</link>
-<guid>http://audio.fbcmuncie.org/2020-08-23.mp3</guid>
-<description>As we flip over to chapter 4 in our Philippians study, Paul addresses the church with deep affection. He then calls out two women who seem to be in conflict with one another. Paul realizes how quickly a church family can be divided and destroyed. We can learn much from these words as we consider how we function at First Baptist Church Muncie.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-08-23.mp3" length="40849988" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 23 Aug 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we flip over to chapter 4 in our Philippians study, Paul addresses the church with deep affection. He then calls out two women who seem to be in conflict with one another. Paul realizes how quickly a church family can be divided and destroyed. We can learn much from these words as we consider how we function at First Baptist Church Muncie.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>As we flip over to chapter 4 in our Philippians study, Paul addresses the church with deep affection. He then calls out two women who seem to be in conflict with one another. Paul realizes how quickly a church family can be divided and destroyed. We can learn much from these words as we consider how we function at First Baptist Church Muncie.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:28:22</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Imitators</title>
-<link>https://fbcmuncie.org/video/2020/08/16/imitators/</link>
-<guid>http://audio.fbcmuncie.org/2020-08-16.mp3</guid>
-<description>Paul has learned to reframe his perspective. He looks past his current circumstances and looks forward to God&amp;rsquo;s ultimate plan to rescue and redeem His people. Like running a race, Paul has his eye on the finish line. Paul goes a step further and urges the church at Philippi to follow his example in this.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-08-16.mp3" length="36410145" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 16 Aug 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Paul has learned to reframe his perspective. He looks past his current circumstances and looks forward to God&amp;rsquo;s ultimate plan to rescue and redeem His people. Like running a race, Paul has his eye on the finish line. Paul goes a step further and urges the church at Philippi to follow his example in this.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Paul has learned to reframe his perspective. He looks past his current circumstances and looks forward to God&amp;rsquo;s ultimate plan to rescue and redeem His people. Like running a race, Paul has his eye on the finish line. Paul goes a step further and urges the church at Philippi to follow his example in this.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:25:17</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Friend of the Cross</title>
-<link>https://fbcmuncie.org/video/2020/08/09/friend-of-the-cross/</link>
-<guid>http://audio.fbcmuncie.org/2020-08-09.mp3</guid>
-<description>Paul calls out the methods of false teachers, highlights his resume in light of their tactics, but quickly crumbles it up and throws it away. He then calls the church at Philippi to take a different approach, one of knowing Jesus. Knowing Jesus involves giving up, laying down, joining Him in his sufferings. But in doing this, we will also be able to participate in His resurrection.
-Full Live Stream Video   K-2nd Grade Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-08-09.mp3" length="34682234" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 09 Aug 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Paul calls out the methods of false teachers, highlights his resume in light of their tactics, but quickly crumbles it up and throws it away. He then calls the church at Philippi to take a different approach, one of knowing Jesus. Knowing Jesus involves giving up, laying down, joining Him in his sufferings. But in doing this, we will also be able to participate in His resurrection.
-Full Live Stream Video   K-2nd Grade Sunday School   </itunes:subtitle>
-<itunes:summary>Paul calls out the methods of false teachers, highlights his resume in light of their tactics, but quickly crumbles it up and throws it away. He then calls the church at Philippi to take a different approach, one of knowing Jesus. Knowing Jesus involves giving up, laying down, joining Him in his sufferings. But in doing this, we will also be able to participate in His resurrection.
-Full Live Stream Video   K-2nd Grade Sunday School   </itunes:summary>
-<itunes:duration>0:24:05</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Models for Ministry</title>
-<link>https://fbcmuncie.org/video/2020/08/02/models-for-ministry/</link>
-<guid>http://audio.fbcmuncie.org/2020-08-02.mp3</guid>
-<description>The final verses in Philippians 2 (19-30) could be seen as minor instructions pertaining to Paul&amp;rsquo;s companions. They give an indication of how Paul plans to send these fellow servants back to Philippi. But as we dig a bit deeper, we discover powerful descriptions that point us toward faithful service to Christ. These verses help us examine how we might serve God in the same sort of way.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-08-02.mp3" length="32762430" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 02 Aug 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The final verses in Philippians 2 (19-30) could be seen as minor instructions pertaining to Paul&amp;rsquo;s companions. They give an indication of how Paul plans to send these fellow servants back to Philippi. But as we dig a bit deeper, we discover powerful descriptions that point us toward faithful service to Christ. These verses help us examine how we might serve God in the same sort of way.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>The final verses in Philippians 2 (19-30) could be seen as minor instructions pertaining to Paul&amp;rsquo;s companions. They give an indication of how Paul plans to send these fellow servants back to Philippi. But as we dig a bit deeper, we discover powerful descriptions that point us toward faithful service to Christ. These verses help us examine how we might serve God in the same sort of way.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:22:45</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Pleasing God Alone</title>
-<link>https://fbcmuncie.org/video/2020/07/26/pleasing-god-alone/</link>
-<guid>http://audio.fbcmuncie.org/2020-07-26.mp3</guid>
-<description>Paul&amp;rsquo;s desire to please God far outweighs his desire for his own comfort, status, or reputation. He challenges the church at Philippi to have the same sort of mindset. In Philippians 2:12-18, Paul urges them to work out how to please God in the midst of difficult situations. In the same way, we must consider this dynamic in our lives. Who are we trying to please?
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-07-26.mp3" length="35498406" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 26 Jul 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Paul&amp;rsquo;s desire to please God far outweighs his desire for his own comfort, status, or reputation. He challenges the church at Philippi to have the same sort of mindset. In Philippians 2:12-18, Paul urges them to work out how to please God in the midst of difficult situations. In the same way, we must consider this dynamic in our lives. Who are we trying to please?
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:subtitle>
-<itunes:summary>Paul&amp;rsquo;s desire to please God far outweighs his desire for his own comfort, status, or reputation. He challenges the church at Philippi to have the same sort of mindset. In Philippians 2:12-18, Paul urges them to work out how to please God in the midst of difficult situations. In the same way, we must consider this dynamic in our lives. Who are we trying to please?
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:summary>
-<itunes:duration>0:24:39</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Posture of Humility</title>
-<link>https://fbcmuncie.org/video/2020/07/19/posture-of-humility/</link>
-<guid>http://audio.fbcmuncie.org/2020-07-19.mp3</guid>
-<description>Paul turns from a discussion about his imprisonment to instruction to the church at Philippi. He prompts them to reflect on the ways in which they have benefited from Christ and encourages them to model the posture of Christ. He bids them to relinquish selfish ambition and vanity in order to take on humility and an others first mindset. In doing this, the church will complete Paul&amp;rsquo;s joy.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-07-19.mp3" length="35234048" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 19 Jul 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Paul turns from a discussion about his imprisonment to instruction to the church at Philippi. He prompts them to reflect on the ways in which they have benefited from Christ and encourages them to model the posture of Christ. He bids them to relinquish selfish ambition and vanity in order to take on humility and an others first mindset. In doing this, the church will complete Paul&amp;rsquo;s joy.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Paul turns from a discussion about his imprisonment to instruction to the church at Philippi. He prompts them to reflect on the ways in which they have benefited from Christ and encourages them to model the posture of Christ. He bids them to relinquish selfish ambition and vanity in order to take on humility and an others first mindset. In doing this, the church will complete Paul&amp;rsquo;s joy.
-Full Live Stream Video   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:24:28</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Whatever Happens</title>
-<link>https://fbcmuncie.org/video/2020/07/12/whatever-happens/</link>
-<guid>http://audio.fbcmuncie.org/2020-07-12.mp3</guid>
-<description>As Paul writes to the church at Philippi, he is imprisoned with an uncertain fate. Yet in this letter, he expresses joy and trust that God will provide deliverance. But in Paul&amp;rsquo;s mind, deliverance does not necessarily mean an improvement in circumstances. It might be death. Paul relentless trust in God in every circumstance prompts us to consider our response to the challenges of 2020.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-07-12.mp3" length="37802427" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 12 Jul 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As Paul writes to the church at Philippi, he is imprisoned with an uncertain fate. Yet in this letter, he expresses joy and trust that God will provide deliverance. But in Paul&amp;rsquo;s mind, deliverance does not necessarily mean an improvement in circumstances. It might be death. Paul relentless trust in God in every circumstance prompts us to consider our response to the challenges of 2020.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>As Paul writes to the church at Philippi, he is imprisoned with an uncertain fate. Yet in this letter, he expresses joy and trust that God will provide deliverance. But in Paul&amp;rsquo;s mind, deliverance does not necessarily mean an improvement in circumstances. It might be death. Paul relentless trust in God in every circumstance prompts us to consider our response to the challenges of 2020.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:26:15</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Re-framing Our Perspective</title>
-<link>https://fbcmuncie.org/video/2020/07/05/re-framing-our-perspective/</link>
-<guid>http://audio.fbcmuncie.org/2020-07-05.mp3</guid>
-<description>As we begin our study in Paul&amp;rsquo;s letter to the church at Philippi, we consider how he re-frames the difficult circumstances of his imprisonment as well as other church problems. Paul is filled with joy in the midst of a chaotic world. He is sure that God is working and moving in the difficult situations at hand. As we consider the troublesome days of 2020, these words have incredible application to us.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-07-05.mp3" length="27194261" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 05 Jul 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we begin our study in Paul&amp;rsquo;s letter to the church at Philippi, we consider how he re-frames the difficult circumstances of his imprisonment as well as other church problems. Paul is filled with joy in the midst of a chaotic world. He is sure that God is working and moving in the difficult situations at hand. As we consider the troublesome days of 2020, these words have incredible application to us.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>As we begin our study in Paul&amp;rsquo;s letter to the church at Philippi, we consider how he re-frames the difficult circumstances of his imprisonment as well as other church problems. Paul is filled with joy in the midst of a chaotic world. He is sure that God is working and moving in the difficult situations at hand. As we consider the troublesome days of 2020, these words have incredible application to us.
-Full Live Stream Video   Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:18:53</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Turn the Other Cheek</title>
-<link>https://fbcmuncie.org/video/2020/06/28/turn-the-other-cheek/</link>
-<guid>http://audio.fbcmuncie.org/2020-06-28.mp3</guid>
-<description>Jesus&amp;rsquo; instructions to non-retaliation are perhaps the most difficult words in the Sermon on the Mount. Our concern for justice often serves as an excuse to give people what they deserve. Yet Jesus proposes a radical, generous, forgiving posture toward those who mistreat us.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-06-28.mp3" length="41270704" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 28 Jun 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus&amp;rsquo; instructions to non-retaliation are perhaps the most difficult words in the Sermon on the Mount. Our concern for justice often serves as an excuse to give people what they deserve. Yet Jesus proposes a radical, generous, forgiving posture toward those who mistreat us.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Jesus&amp;rsquo; instructions to non-retaliation are perhaps the most difficult words in the Sermon on the Mount. Our concern for justice often serves as an excuse to give people what they deserve. Yet Jesus proposes a radical, generous, forgiving posture toward those who mistreat us.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>00:28:40</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Honesty</title>
-<link>https://fbcmuncie.org/video/2020/06/21/honesty/</link>
-<guid>http://audio.fbcmuncie.org/2020-06-21.mp3</guid>
-<description>In the Sermon on the Mount, Jesus forbids his followers from swearing. In the Kingdom of God, we are called to live lives of raw honesty in the light of world that devalues commitments. We should not escalate our words in order to heighten our level of honesty. We should live lives of simple honesty in all we say and do.
-Full Live Stream Video   Music Videos     K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-06-21.mp3" length="37682768" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 21 Jun 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In the Sermon on the Mount, Jesus forbids his followers from swearing. In the Kingdom of God, we are called to live lives of raw honesty in the light of world that devalues commitments. We should not escalate our words in order to heighten our level of honesty. We should live lives of simple honesty in all we say and do.
-Full Live Stream Video   Music Videos     K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>In the Sermon on the Mount, Jesus forbids his followers from swearing. In the Kingdom of God, we are called to live lives of raw honesty in the light of world that devalues commitments. We should not escalate our words in order to heighten our level of honesty. We should live lives of simple honesty in all we say and do.
-Full Live Stream Video   Music Videos     K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:26:10</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Divorce</title>
-<link>https://fbcmuncie.org/video/2020/06/14/divorce/</link>
-<guid>http://audio.fbcmuncie.org/2020-06-14.mp3</guid>
-<description>Marriage and divorce are important and complicated issues throughout the Bible. Jesus exposes the permissiveness of the first century religious leaders in regards to divorce. He raises the standard for marriage and reconciliation. As we discuss the issue of divorce, we survey other parts of the New Testament for a more complete understanding of this complex issue.
-Full Live Stream Video   Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-06-14.mp3" length="44950913" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 14 Jun 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Marriage and divorce are important and complicated issues throughout the Bible. Jesus exposes the permissiveness of the first century religious leaders in regards to divorce. He raises the standard for marriage and reconciliation. As we discuss the issue of divorce, we survey other parts of the New Testament for a more complete understanding of this complex issue.
-Full Live Stream Video   Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Marriage and divorce are important and complicated issues throughout the Bible. Jesus exposes the permissiveness of the first century religious leaders in regards to divorce. He raises the standard for marriage and reconciliation. As we discuss the issue of divorce, we survey other parts of the New Testament for a more complete understanding of this complex issue.
-Full Live Stream Video   Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:31:13</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Wisdom in the Chaos</title>
-<link>https://fbcmuncie.org/video/2020/06/07/wisdom-in-the-chaos/</link>
-<guid>http://audio.fbcmuncie.org/2020-06-07.mp3</guid>
-<description>This has not been an easy year. With the COVID-19 Pandemic, the economic implications of the pandemic, along with the recent events surrounding the tragic death of George Floyd, our world seems out of control. At the same time, voices from all directions are speaking. How do we know who is telling the truth and who is twisting the narrative for their own purposes. How do we respond to all that we are seeing and hearing as followers of Jesus? James gives us insight into these issues.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-06-07.mp3" length="45539115" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 07 Jun 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>This has not been an easy year. With the COVID-19 Pandemic, the economic implications of the pandemic, along with the recent events surrounding the tragic death of George Floyd, our world seems out of control. At the same time, voices from all directions are speaking. How do we know who is telling the truth and who is twisting the narrative for their own purposes. How do we respond to all that we are seeing and hearing as followers of Jesus? James gives us insight into these issues.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>This has not been an easy year. With the COVID-19 Pandemic, the economic implications of the pandemic, along with the recent events surrounding the tragic death of George Floyd, our world seems out of control. At the same time, voices from all directions are speaking. How do we know who is telling the truth and who is twisting the narrative for their own purposes. How do we respond to all that we are seeing and hearing as followers of Jesus? James gives us insight into these issues.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:31:37</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Lust or Love</title>
-<link>https://fbcmuncie.org/video/2020/05/31/lust-or-love/</link>
-<guid>http://audio.fbcmuncie.org/2020-05-31.mp3</guid>
-<description>Jesus calls his followers to radical adherence to the Law. More than just remaining in the bounds of rules, Jesus prompts us to stop sin at the source. In Matthew 5:27-30, Jesus directs us away from lust and calls us to submit our eyes and hands to him as we seek to love one another.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-05-31.mp3" length="48199633" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 31 May 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus calls his followers to radical adherence to the Law. More than just remaining in the bounds of rules, Jesus prompts us to stop sin at the source. In Matthew 5:27-30, Jesus directs us away from lust and calls us to submit our eyes and hands to him as we seek to love one another.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>Jesus calls his followers to radical adherence to the Law. More than just remaining in the bounds of rules, Jesus prompts us to stop sin at the source. In Matthew 5:27-30, Jesus directs us away from lust and calls us to submit our eyes and hands to him as we seek to love one another.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:33:28</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Anger</title>
-<link>https://fbcmuncie.org/video/2020/05/24/anger/</link>
-<guid>http://audio.fbcmuncie.org/2020-05-24.mp3</guid>
-<description>As Jesus expands and fulfills the Law, he addresses specific topics. He raises the bar on the issue of murder. While the Law forbids murder, Jesus prohibits anger. God calls us to reconcile in radical ways as we learn to live in His Kingdom.
-Full Live Stream Video   Announcements   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-05-24.mp3" length="41490084" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 24 May 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As Jesus expands and fulfills the Law, he addresses specific topics. He raises the bar on the issue of murder. While the Law forbids murder, Jesus prohibits anger. God calls us to reconcile in radical ways as we learn to live in His Kingdom.
-Full Live Stream Video   Announcements   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:subtitle>
-<itunes:summary>As Jesus expands and fulfills the Law, he addresses specific topics. He raises the bar on the issue of murder. While the Law forbids murder, Jesus prohibits anger. God calls us to reconcile in radical ways as we learn to live in His Kingdom.
-Full Live Stream Video   Announcements   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   </itunes:summary>
-<itunes:duration>0:28:49</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Law</title>
-<link>https://fbcmuncie.org/video/2020/05/17/the-law/</link>
-<guid>http://audio.fbcmuncie.org/2020-05-17.mp3</guid>
-<description>In Matthew 5:17-20, Jesus warns against throwing out the Old Testament in light of his life and ministry. Rather, Jesus explains his fulfillment of the Old Testament. As we read all of God&amp;rsquo;s story, from Genesis to Revelation, through the lens of Jesus, we discover how Jesus completes what God plan to restore his creation.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-05-17.mp3" length="46739526" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 17 May 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In Matthew 5:17-20, Jesus warns against throwing out the Old Testament in light of his life and ministry. Rather, Jesus explains his fulfillment of the Old Testament. As we read all of God&amp;rsquo;s story, from Genesis to Revelation, through the lens of Jesus, we discover how Jesus completes what God plan to restore his creation.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>In Matthew 5:17-20, Jesus warns against throwing out the Old Testament in light of his life and ministry. Rather, Jesus explains his fulfillment of the Old Testament. As we read all of God&amp;rsquo;s story, from Genesis to Revelation, through the lens of Jesus, we discover how Jesus completes what God plan to restore his creation.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:32:27</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Love of a Mother</title>
-<link>https://fbcmuncie.org/video/2020/05/10/the-love-of-a-mother/</link>
-<guid>http://audio.fbcmuncie.org/2020-05-10.mp3</guid>
-<description>On Mother&amp;rsquo;s Day, we take a break from the Sermon on the Mount series to travel a bit further back in time. We reflect on the story of Samuel&amp;rsquo;s mother, Hannah. As a barren woman she was grief stricken. God comes to her in her brokenness and provides a child. Through this story, we learn much about what it means to be a mother. At the same time, we also learn what it means to bring our heartache to God.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-05-10.mp3" length="42169237" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 10 May 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>On Mother&amp;rsquo;s Day, we take a break from the Sermon on the Mount series to travel a bit further back in time. We reflect on the story of Samuel&amp;rsquo;s mother, Hannah. As a barren woman she was grief stricken. God comes to her in her brokenness and provides a child. Through this story, we learn much about what it means to be a mother. At the same time, we also learn what it means to bring our heartache to God.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>On Mother&amp;rsquo;s Day, we take a break from the Sermon on the Mount series to travel a bit further back in time. We reflect on the story of Samuel&amp;rsquo;s mother, Hannah. As a barren woman she was grief stricken. God comes to her in her brokenness and provides a child. Through this story, we learn much about what it means to be a mother. At the same time, we also learn what it means to bring our heartache to God.
-Full Live Stream Video   Music Videos     Pre-K Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:29:17</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Kings and Priests</title>
-<link>https://fbcmuncie.org/video/2020/05/03/kings-and-priests/</link>
-<guid>http://audio.fbcmuncie.org/2020-05-03.mp3</guid>
-<description>The familiar passage about salt and light is often simplified into Jesus&amp;rsquo; followers serving as moral influencers in our broken world. Yet the story of God provides a greater calling for us. We are created by God in His image and called to be a kingdom of priests in our world. As we explore several passages throughout God&amp;rsquo;s story, we can read Matthew 5:13-16 as call to live out this grand purpose in the places where God has placed us.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Also, you can use this video as a meditation as you take communion:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel from last week. If you missed them, you might want to watch them this week.
-    </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-05-03.mp3" length="52171448" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 03 May 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The familiar passage about salt and light is often simplified into Jesus&amp;rsquo; followers serving as moral influencers in our broken world. Yet the story of God provides a greater calling for us. We are created by God in His image and called to be a kingdom of priests in our world. As we explore several passages throughout God&amp;rsquo;s story, we can read Matthew 5:13-16 as call to live out this grand purpose in the places where God has placed us.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Also, you can use this video as a meditation as you take communion:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel from last week. If you missed them, you might want to watch them this week.
-    </itunes:subtitle>
-<itunes:summary>The familiar passage about salt and light is often simplified into Jesus&amp;rsquo; followers serving as moral influencers in our broken world. Yet the story of God provides a greater calling for us. We are created by God in His image and called to be a kingdom of priests in our world. As we explore several passages throughout God&amp;rsquo;s story, we can read Matthew 5:13-16 as call to live out this grand purpose in the places where God has placed us.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Also, you can use this video as a meditation as you take communion:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel from last week. If you missed them, you might want to watch them this week.
-    </itunes:summary>
-<itunes:duration>0:36:14</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Blessed by God</title>
-<link>https://fbcmuncie.org/video/2020/04/26/blessed-by-god/</link>
-<guid>http://audio.fbcmuncie.org/2020-04-26.mp3</guid>
-<description>As we come once again to the passage we call The Beatitudes, we consider how counter cultural and counter religious Jesus&amp;rsquo; description of his followers might seem. Yet as we explore why Jesus must have opened his sermon with this description, we begin to rethink spiritual success.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  This is a suggested closing video:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel now.
-    </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-04-26.mp3" length="43757144" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 26 Apr 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we come once again to the passage we call The Beatitudes, we consider how counter cultural and counter religious Jesus&amp;rsquo; description of his followers might seem. Yet as we explore why Jesus must have opened his sermon with this description, we begin to rethink spiritual success.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  This is a suggested closing video:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel now.
-    </itunes:subtitle>
-<itunes:summary>As we come once again to the passage we call The Beatitudes, we consider how counter cultural and counter religious Jesus&amp;rsquo; description of his followers might seem. Yet as we explore why Jesus must have opened his sermon with this description, we begin to rethink spiritual success.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  If you prefer contemporary, you can watch the video below before or after the sermon:
-  This is a suggested closing video:
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Children&amp;rsquo;s Stories We have two children&amp;rsquo;s stories on the YouTube channel now.
-    </itunes:summary>
-<itunes:duration>0:30:23</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Teaching of Jesus</title>
-<link>https://fbcmuncie.org/video/2020/04/19/the-teaching-of-jesus/</link>
-<guid>http://audio.fbcmuncie.org/2020-04-19.mp3</guid>
-<description>As we prepare for our study on the Sermon on the Mount, we explore how to read this ever important section of Matthew&amp;rsquo;s gospel. Too often, we attempt to redefine Jesus&amp;rsquo; words in light of the ethical systems of our day. Instead, we need to understand Jesus as the authoritative Messiah who is forming a people to fulfill the mission of God in the world.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Then listen to the sermon, followed by this video.
-  If you prefer contemporary, you can watch the video below before or after the sermon.
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-04-19.mp3" length="49368950" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 19 Apr 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we prepare for our study on the Sermon on the Mount, we explore how to read this ever important section of Matthew&amp;rsquo;s gospel. Too often, we attempt to redefine Jesus&amp;rsquo; words in light of the ethical systems of our day. Instead, we need to understand Jesus as the authoritative Messiah who is forming a people to fulfill the mission of God in the world.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Then listen to the sermon, followed by this video.
-  If you prefer contemporary, you can watch the video below before or after the sermon.
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>As we prepare for our study on the Sermon on the Mount, we explore how to read this ever important section of Matthew&amp;rsquo;s gospel. Too often, we attempt to redefine Jesus&amp;rsquo; words in light of the ethical systems of our day. Instead, we need to understand Jesus as the authoritative Messiah who is forming a people to fulfill the mission of God in the world.
-Music Videos We have several videos for you this week. We would suggest you listen in this order if you prefer traditional service style:
-  Then listen to the sermon, followed by this video.
-  If you prefer contemporary, you can watch the video below before or after the sermon.
-  Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:34:17</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Risen</title>
-<link>https://fbcmuncie.org/video/2020/04/12/risen/</link>
-<guid>http://audio.fbcmuncie.org/2020-04-12.mp3</guid>
-<description>It is Resurrection Sunday and we gather to celebrate the Risen Christ. We will explore Mark and Matthew&amp;rsquo;s accounts to get a full picture of the story. Because of the Risen Christ, death is defeated and the Kingdom of God can be established.
-Music Videos         Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Live Stream Recording If you would like to watch a replay of the live stream, you can watch below.
-  </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-04-12.mp3" length="42061851" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 12 Apr 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>It is Resurrection Sunday and we gather to celebrate the Risen Christ. We will explore Mark and Matthew&amp;rsquo;s accounts to get a full picture of the story. Because of the Risen Christ, death is defeated and the Kingdom of God can be established.
-Music Videos         Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Live Stream Recording If you would like to watch a replay of the live stream, you can watch below.
-  </itunes:subtitle>
-<itunes:summary>It is Resurrection Sunday and we gather to celebrate the Risen Christ. We will explore Mark and Matthew&amp;rsquo;s accounts to get a full picture of the story. Because of the Risen Christ, death is defeated and the Kingdom of God can be established.
-Music Videos         Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Live Stream Recording If you would like to watch a replay of the live stream, you can watch below.
-  </itunes:summary>
-<itunes:duration>0:29:13</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Palm Sunday</title>
-<link>https://fbcmuncie.org/video/2020/04/05/palm-sunday/</link>
-<guid>http://audio.fbcmuncie.org/2020-04-05.mp3</guid>
-<description>As we begin Holy Week, we will walk through the story of Jesus&amp;rsquo; arrest and crucifixion. Jesus&amp;rsquo; control and determination to fulfill his mission are stunning. He could have called it off at any point. Yet, he willingly steps into pain, suffering, humiliation in order to rescue us.
-Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Good Friday Story from Molly   Holy Week Ideas Finally, Clif has put togteher a list of ideas for Holy Week. You can download a PDF of the ideas.
-Holy Week Ideas    </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-04-05.mp3" length="42869391" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 05 Apr 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we begin Holy Week, we will walk through the story of Jesus&amp;rsquo; arrest and crucifixion. Jesus&amp;rsquo; control and determination to fulfill his mission are stunning. He could have called it off at any point. Yet, he willingly steps into pain, suffering, humiliation in order to rescue us.
-Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Good Friday Story from Molly   Holy Week Ideas Finally, Clif has put togteher a list of ideas for Holy Week. You can download a PDF of the ideas.
-Holy Week Ideas    </itunes:subtitle>
-<itunes:summary>As we begin Holy Week, we will walk through the story of Jesus&amp;rsquo; arrest and crucifixion. Jesus&amp;rsquo; control and determination to fulfill his mission are stunning. He could have called it off at any point. Yet, he willingly steps into pain, suffering, humiliation in order to rescue us.
-Music Videos       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   Good Friday Story from Molly   Holy Week Ideas Finally, Clif has put togteher a list of ideas for Holy Week. You can download a PDF of the ideas.
-Holy Week Ideas    </itunes:summary>
-<itunes:duration>0:29:46</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Surrender: Our Will</title>
-<link>https://fbcmuncie.org/video/2020/03/29/surrender-our-will/</link>
-<guid>http://audio.fbcmuncie.org/2020-03-29.mp3</guid>
-<description>As we venture with Jesus into the Garden of Gethsemane, we explore Jesus&amp;rsquo; courageous prayer in contract to the failings of the disciples. We consider how God might be calling us to surrender to his will rather than following our own.
-Videos from Molly and Julie (organ)       Videos from Caleb Rolling       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-03-29.mp3" length="33038179" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 29 Mar 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>As we venture with Jesus into the Garden of Gethsemane, we explore Jesus&amp;rsquo; courageous prayer in contract to the failings of the disciples. We consider how God might be calling us to surrender to his will rather than following our own.
-Videos from Molly and Julie (organ)       Videos from Caleb Rolling       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:subtitle>
-<itunes:summary>As we venture with Jesus into the Garden of Gethsemane, we explore Jesus&amp;rsquo; courageous prayer in contract to the failings of the disciples. We consider how God might be calling us to surrender to his will rather than following our own.
-Videos from Molly and Julie (organ)       Videos from Caleb Rolling       Pre-K Sunday School   K-2nd Grade Sunday School   3rd-5th Sunday School   </itunes:summary>
-<itunes:duration>0:22:57</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Surrender: Resources</title>
-<link>https://fbcmuncie.org/video/2020/03/22/surrender-resources/</link>
-<guid>http://audio.fbcmuncie.org/2020-03-22.mp3</guid>
-<description>The story of the rich young man in Matthew 19 challenges our understanding of wealth. But more importantly, it confronts the notion that we can earn eternal life by doing some good deed. Only as we give up and follow Jesus can we discover what it means to enter the Kingdom of God.
-      </description>
-<enclosure url="http://audio.fbcmuncie.org/2020-03-22.mp3" length="33926657" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 22 Mar 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The story of the rich young man in Matthew 19 challenges our understanding of wealth. But more importantly, it confronts the notion that we can earn eternal life by doing some good deed. Only as we give up and follow Jesus can we discover what it means to enter the Kingdom of God.
-      </itunes:subtitle>
-<itunes:summary>The story of the rich young man in Matthew 19 challenges our understanding of wealth. But more importantly, it confronts the notion that we can earn eternal life by doing some good deed. Only as we give up and follow Jesus can we discover what it means to enter the Kingdom of God.
-      </itunes:summary>
-<itunes:duration>0:23:33</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Surrender Our Fear</title>
-<link>https://fbcmuncie.org/video/2020/03/15/surrender-our-fear/</link>
-<guid>http://audio.fbcmuncie.org/2020-03-15.mp3</guid>
-<description>In this video podcast, our pastor addresses the congregation at First Baptist Church in Muncie in the wake of the 2020 Coronavirus pandemic. As we explore the Bible&amp;rsquo;s teaching around fear, anxiety, and peace, we remember God&amp;rsquo;s instruction to trust and rely on Him alone. We often see how fear and faith live in contrast to one another. May God provide all that we need and guide us in this season of uncertainty.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-03-15.mp3" length="46315096" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 15 Mar 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In this video podcast, our pastor addresses the congregation at First Baptist Church in Muncie in the wake of the 2020 Coronavirus pandemic. As we explore the Bible&amp;rsquo;s teaching around fear, anxiety, and peace, we remember God&amp;rsquo;s instruction to trust and rely on Him alone. We often see how fear and faith live in contrast to one another. May God provide all that we need and guide us in this season of uncertainty.
-</itunes:subtitle>
-<itunes:summary>In this video podcast, our pastor addresses the congregation at First Baptist Church in Muncie in the wake of the 2020 Coronavirus pandemic. As we explore the Bible&amp;rsquo;s teaching around fear, anxiety, and peace, we remember God&amp;rsquo;s instruction to trust and rely on Him alone. We often see how fear and faith live in contrast to one another. May God provide all that we need and guide us in this season of uncertainty.
-</itunes:summary>
-<itunes:duration>0:32:09</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Surrender: Children</title>
-<link>https://fbcmuncie.org/video/2020/03/08/surrender-children/</link>
-<guid>http://audio.fbcmuncie.org/2020-03-08.mp3</guid>
-<description>Northern Seminary President Bill Shiell preaches on Jesus&amp;rsquo; teaching about children. This special combined service will be at 10:45 AM.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-03-08.mp3" length="41226395" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 08 Mar 2020 16:15:00 EST</pubDate>
-<itunes:author>Bill Shiell</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Northern Seminary President Bill Shiell preaches on Jesus&amp;rsquo; teaching about children. This special combined service will be at 10:45 AM.
-</itunes:subtitle>
-<itunes:summary>Northern Seminary President Bill Shiell preaches on Jesus&amp;rsquo; teaching about children. This special combined service will be at 10:45 AM.
-</itunes:summary>
-<itunes:duration>0:28:37</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Surrender: Forgiveness</title>
-<link>https://fbcmuncie.org/video/2020/03/01/surrender-forgiveness/</link>
-<guid>http://audio.fbcmuncie.org/2020-03-01.mp3</guid>
-<description>Peter asks Jesus an honest question. He wants to know how far forgiveness can go. How many times do we forgive? Jesus answers his question with a story, a parable. In Matthew 18:21-35, we are challenged with the parable of the unforgiving servant. As we read the story, we relate to the astonishing inconsistency. For those of us who have received forgiveness, we discover the necessity to do the same for others.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-03-01.mp3" length="45671667" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 01 Mar 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Peter asks Jesus an honest question. He wants to know how far forgiveness can go. How many times do we forgive? Jesus answers his question with a story, a parable. In Matthew 18:21-35, we are challenged with the parable of the unforgiving servant. As we read the story, we relate to the astonishing inconsistency. For those of us who have received forgiveness, we discover the necessity to do the same for others.
-</itunes:subtitle>
-<itunes:summary>Peter asks Jesus an honest question. He wants to know how far forgiveness can go. How many times do we forgive? Jesus answers his question with a story, a parable. In Matthew 18:21-35, we are challenged with the parable of the unforgiving servant. As we read the story, we relate to the astonishing inconsistency. For those of us who have received forgiveness, we discover the necessity to do the same for others.
-</itunes:summary>
-<itunes:duration>0:31:42</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Transfiguration</title>
-<link>https://fbcmuncie.org/video/2020/02/23/the-transfiguration/</link>
-<guid>http://audio.fbcmuncie.org/2020-02-23.mp3</guid>
-<description>The season of Epiphany ends with the story of the Transfiguration. In this story Jesus turns toward the Cross. On this dynamic occasion, Jesus takes Peter, James and John with him to the top of mountain. There they experience an impressive display of God&amp;rsquo;s power, along with an affirmation of Jesus&amp;rsquo; identity. The Transfiguration reminds us of God&amp;rsquo;s mission through the work of Jesus on the Cross.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-02-23.mp3" length="45035168" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 23 Feb 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The season of Epiphany ends with the story of the Transfiguration. In this story Jesus turns toward the Cross. On this dynamic occasion, Jesus takes Peter, James and John with him to the top of mountain. There they experience an impressive display of God&amp;rsquo;s power, along with an affirmation of Jesus&amp;rsquo; identity. The Transfiguration reminds us of God&amp;rsquo;s mission through the work of Jesus on the Cross.
-</itunes:subtitle>
-<itunes:summary>The season of Epiphany ends with the story of the Transfiguration. In this story Jesus turns toward the Cross. On this dynamic occasion, Jesus takes Peter, James and John with him to the top of mountain. There they experience an impressive display of God&amp;rsquo;s power, along with an affirmation of Jesus&amp;rsquo; identity. The Transfiguration reminds us of God&amp;rsquo;s mission through the work of Jesus on the Cross.
-</itunes:summary>
-<itunes:duration>0:31:16</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Heart</title>
-<link>https://fbcmuncie.org/video/2020/02/16/the-heart/</link>
-<guid>http://audio.fbcmuncie.org/2020-02-16.mp3</guid>
-<description>In the season of Valentine&amp;rsquo;s Day, we think a lot about hearts. In Matthew 5:21-37, Jesus is not talking about romantic love. He calls us to examine our hearts in terms of sin. As we continue our study on Jesus&amp;rsquo; words, we are challenged to allow God to do the inner work of transforming our hearts. Adjusting our actions is impossible without a change of heart.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-02-16.mp3" length="43220721" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 16 Feb 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In the season of Valentine&amp;rsquo;s Day, we think a lot about hearts. In Matthew 5:21-37, Jesus is not talking about romantic love. He calls us to examine our hearts in terms of sin. As we continue our study on Jesus&amp;rsquo; words, we are challenged to allow God to do the inner work of transforming our hearts. Adjusting our actions is impossible without a change of heart.
-</itunes:subtitle>
-<itunes:summary>In the season of Valentine&amp;rsquo;s Day, we think a lot about hearts. In Matthew 5:21-37, Jesus is not talking about romantic love. He calls us to examine our hearts in terms of sin. As we continue our study on Jesus&amp;rsquo; words, we are challenged to allow God to do the inner work of transforming our hearts. Adjusting our actions is impossible without a change of heart.
-</itunes:summary>
-<itunes:duration>0:30:00</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Well Seasoned</title>
-<link>https://fbcmuncie.org/video/2020/02/09/well-seasoned/</link>
-<guid>http://audio.fbcmuncie.org/2020-02-09.mp3</guid>
-<description>In Matthew 5:13-16, Jesus challenges His followers to be salt and light. Through these tangible symbols, Jesus describes the impact that we should make in our world. Through His power, we can change the world in which we live.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-02-09.mp3" length="38151215" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 09 Feb 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In Matthew 5:13-16, Jesus challenges His followers to be salt and light. Through these tangible symbols, Jesus describes the impact that we should make in our world. Through His power, we can change the world in which we live.
-</itunes:subtitle>
-<itunes:summary>In Matthew 5:13-16, Jesus challenges His followers to be salt and light. Through these tangible symbols, Jesus describes the impact that we should make in our world. Through His power, we can change the world in which we live.
-</itunes:summary>
-<itunes:duration>0:26:29</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Sermon on the Mount</title>
-<link>https://fbcmuncie.org/video/2020/02/02/sermon-on-the-mount/</link>
-<guid>http://audio.fbcmuncie.org/2020-02-02.mp3</guid>
-<description>Jesus gathers his disciples on a mountainside to teach them about true happiness. His words must have surprised them; they still catch us off guard today. This well-known passage is often referred to as The Beatitudes. Join us as we explore these challenging words together. Matthew 5:1-12
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-02-02.mp3" length="49287094" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 02 Feb 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Jesus gathers his disciples on a mountainside to teach them about true happiness. His words must have surprised them; they still catch us off guard today. This well-known passage is often referred to as The Beatitudes. Join us as we explore these challenging words together. Matthew 5:1-12
-</itunes:subtitle>
-<itunes:summary>Jesus gathers his disciples on a mountainside to teach them about true happiness. His words must have surprised them; they still catch us off guard today. This well-known passage is often referred to as The Beatitudes. Join us as we explore these challenging words together. Matthew 5:1-12
-</itunes:summary>
-<itunes:duration>0:34:13</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Leave Your Nets</title>
-<link>https://fbcmuncie.org/video/2020/01/26/leave-your-nets/</link>
-<guid>http://audio.fbcmuncie.org/2020-01-26.mp3</guid>
-<description>In Matthew 4:12-23 Jesus leaves his hometown to begin his ministry. His actions are decisive; there is no turning back. He invites others to join Him on His mission. They too are quick to respond. They drop everything (right in the middle of their work) to join him. As we study this text together, we are reminded of what it looks like to follow Jesus.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-01-26.mp3" length="64361648" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 26 Jan 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>In Matthew 4:12-23 Jesus leaves his hometown to begin his ministry. His actions are decisive; there is no turning back. He invites others to join Him on His mission. They too are quick to respond. They drop everything (right in the middle of their work) to join him. As we study this text together, we are reminded of what it looks like to follow Jesus.
-</itunes:subtitle>
-<itunes:summary>In Matthew 4:12-23 Jesus leaves his hometown to begin his ministry. His actions are decisive; there is no turning back. He invites others to join Him on His mission. They too are quick to respond. They drop everything (right in the middle of their work) to join him. As we study this text together, we are reminded of what it looks like to follow Jesus.
-</itunes:summary>
-<itunes:duration>0:44:41</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>The Supremacy of Christ</title>
-<link>https://fbcmuncie.org/video/2020/01/19/the-supremacy-of-christ/</link>
-<guid>http://audio.fbcmuncie.org/2020-01-19.mp3</guid>
-<description>Caleb Rolling is a student at Taylor University. He is serving as a mentee at First Baptist. Caleb is preaching from Colossians 1:15-20.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-01-19.mp3" length="44529765" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 19 Jan 2020 16:15:00 EST</pubDate>
-<itunes:author>Caleb Rolling</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Caleb Rolling is a student at Taylor University. He is serving as a mentee at First Baptist. Caleb is preaching from Colossians 1:15-20.
-</itunes:subtitle>
-<itunes:summary>Caleb Rolling is a student at Taylor University. He is serving as a mentee at First Baptist. Caleb is preaching from Colossians 1:15-20.
-</itunes:summary>
-<itunes:duration>0:30:55</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>A Lesson in Humility</title>
-<link>https://fbcmuncie.org/video/2020/01/12/a-lesson-in-humility/</link>
-<guid>http://audio.fbcmuncie.org/2020-01-12.mp3</guid>
-<description>John the Baptist was deemed the greatest man every born by Jesus. He was faithful to God&amp;rsquo;s calling to live in the desert, eat locusts and honey, preach a bold and offensive message. In fact, he would be killed for this valiant message. Yet when Jesus approaches him for baptism, John&amp;rsquo;s initial response was to forbid Jesus. We will explore how John&amp;rsquo;s tendency continues to be our own experience.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-01-12.mp3" length="39293023" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 12 Jan 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>John the Baptist was deemed the greatest man every born by Jesus. He was faithful to God&amp;rsquo;s calling to live in the desert, eat locusts and honey, preach a bold and offensive message. In fact, he would be killed for this valiant message. Yet when Jesus approaches him for baptism, John&amp;rsquo;s initial response was to forbid Jesus. We will explore how John&amp;rsquo;s tendency continues to be our own experience.
-</itunes:subtitle>
-<itunes:summary>John the Baptist was deemed the greatest man every born by Jesus. He was faithful to God&amp;rsquo;s calling to live in the desert, eat locusts and honey, preach a bold and offensive message. In fact, he would be killed for this valiant message. Yet when Jesus approaches him for baptism, John&amp;rsquo;s initial response was to forbid Jesus. We will explore how John&amp;rsquo;s tendency continues to be our own experience.
-</itunes:summary>
-<itunes:duration>0:27:17</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-<item>
-<title>Way of the Wise Men</title>
-<link>https://fbcmuncie.org/video/2020/01/05/way-of-the-wise-men/</link>
-<guid>http://audio.fbcmuncie.org/2020-01-05.mp3</guid>
-<description>On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of worship as we engage the story together.
-</description>
-<enclosure url="http://audio.fbcmuncie.org/2020-01-05.mp3" length="41599206" type="audio/mpeg"/>
-<category>Sermons</category>
-<pubDate>Sun, 05 Jan 2020 16:15:00 EST</pubDate>
-<itunes:author>Wade Allen</itunes:author>
-<itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of worship as we engage the story together.
-</itunes:subtitle>
-<itunes:summary>On this first Sunday of Epiphany, we consider the journey of the wise men. They travel a great distance and offer valuable gifts in order to worship Jesus. Their worship is a model of authentic worship. May we consider our own acts of worship as we engage the story together.
-</itunes:summary>
-<itunes:duration>0:28:53</itunes:duration>
-<itunes:keywords>church, sermon</itunes:keywords>
-</item>
-
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Baptist Church Muncie</title>
+    <link>https://fbcmuncie.org/podcast/fbcmuncie.xml</link>
+    <description>Recent content on First Baptist Church Muncie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fbcmuncie.org/podcast/fbcmuncie.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Children</title>
+      <link>https://fbcmuncie.org/children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/children/</guid>
+      <description>Welcome Back Children&amp;rsquo;s Ministry has resumed at First Baptist Muncie as of September 13, 2020.</description>
+    </item>
+    
+    <item>
+      <title>January Visitor</title>
+      <link>https://fbcmuncie.org/news/january-visitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/news/january-visitor/</guid>
+      <description>The December Visitor is available online.</description>
+    </item>
+    
+    <item>
+      <title>John in 2021</title>
+      <link>https://fbcmuncie.org/news/john-in-2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/news/john-in-2021/</guid>
+      <description>As we move into the season of Epiphany, Lent, and Easter, we will be working our way through John&amp;rsquo;s Gospel.</description>
+    </item>
+    
+    <item>
+      <title>Youth</title>
+      <link>https://fbcmuncie.org/youth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/youth/</guid>
+      <description>Youth Ministry Mission Statement In partnership with families, the youth ministry of FBC exists to engage 100% of the students under its care, to train them to live independently in Christ, and to send them out as exceptional, godly men and women of integrity who will transform their homes, their schools, their churches, their workplaces, and their worlds for Christ.</description>
+    </item>
+    
+    <item>
+      <title>Adult</title>
+      <link>https://fbcmuncie.org/adult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/adult/</guid>
+      <description>Adult Ministries provides opportunities in addition to Sunday School to be involved in the life of the church.</description>
+    </item>
+    
+    <item>
+      <title>Visitor Articles</title>
+      <link>https://fbcmuncie.org/news/visitor-articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/news/visitor-articles/</guid>
+      <description>If you would like an announcement in the February Visitor, please email it to Wade by Sunday, January 18.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Live Prayer Time</title>
+      <link>https://fbcmuncie.org/news/facebook-live-prayer-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/news/facebook-live-prayer-time/</guid>
+      <description>During this season of social distancing, we continue a weekly Facebook Live prayer time!</description>
+    </item>
+    
+    <item>
+      <title>YouTube Channel</title>
+      <link>https://fbcmuncie.org/news/youtube-channel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/news/youtube-channel/</guid>
+      <description>Join us online each Sunday at 10:45 AM.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Sign</title>
+      <link>https://fbcmuncie.org/worship/2021-02-07-the-ultimate-sign/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2021-02-07-the-ultimate-sign/</guid>
+      <description>Jesus&amp;rsquo; raising Lazarus from the dead is a powerful story.</description>
+    </item>
+    
+    <item>
+      <title>More Signs</title>
+      <link>https://fbcmuncie.org/worship/2021-01-31-more-signs/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2021-01-31-more-signs/</guid>
+      <description>From John 5-10, Jesus continues to explain, clarify, and prove his identity as the Son of God, the Messiah.</description>
+    </item>
+    
+    <item>
+      <title>New Birth</title>
+      <link>https://fbcmuncie.org/worship/2021-01-24-new-birth/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2021-01-24-new-birth/</guid>
+      <description>The familiar story of Nicodemus reminds us that we must experience new birth in order to enter the Kingdom of God.</description>
+    </item>
+    
+    <item>
+      <title>The First Miracle</title>
+      <link>https://fbcmuncie.org/worship/2021-01-17-the-first-miracle/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2021-01-17-the-first-miracle/</guid>
+      <description>Jesus&amp;rsquo; first miracle or sign was the changing of water to wine at the wedding of a close relative or family friend.</description>
+    </item>
+    
+    <item>
+      <title>Jesus&#39; Baptism</title>
+      <link>https://fbcmuncie.org/worship/2021-01-10-jesus-baptism/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/2021-01-10-jesus-baptism/</guid>
+      <description>The first verses of John&amp;rsquo;s Gospel are mind-bending.</description>
+    </item>
+    
+    <item>
+      <title>Belief and Life</title>
+      <link>https://fbcmuncie.org/video/2021/01/03/belief-and-life/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2021/01/03/belief-and-life/</guid>
+      <description>As we begin a series on John&amp;rsquo;s gospel, we discuss his intentions in recording his experiences with Jesus.</description>
+    </item>
+    
+    <item>
+      <title>New Series</title>
+      <link>https://fbcmuncie.org/blog/2020/12/30/new-series/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/12/30/new-series/</guid>
+      <description>Thank you to James Heimlich for preaching last week and helping us reflect on the past year.</description>
+    </item>
+    
+    <item>
+      <title>Facing the New Year</title>
+      <link>https://fbcmuncie.org/video/2020/12/27/facing-the-new-year/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/12/27/facing-the-new-year/</guid>
+      <description>As we come to the end of 2020 and all of the unique challenges and tragedies it brought, many cannot help but look at 2021 with continued fear and anxiety.</description>
+    </item>
+    
+    <item>
+      <title>Mary</title>
+      <link>https://fbcmuncie.org/video/2020/12/20/mary/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/12/20/mary/</guid>
+      <description>In this final Sunday of Advent, we consider the extreme faith and submission of Mary.</description>
+    </item>
+    
+    <item>
+      <title>Last Sunday in Advent</title>
+      <link>https://fbcmuncie.org/blog/2020/12/14/last-sunday-in-advent/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/12/14/last-sunday-in-advent/</guid>
+      <description>We are quickly approaching Christmas. Many are scurrying to get last minute preparations in place.</description>
+    </item>
+    
+    <item>
+      <title>Beauty for Ashes</title>
+      <link>https://fbcmuncie.org/video/2020/12/13/beauty-for-ashes/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/12/13/beauty-for-ashes/</guid>
+      <description>The prophet speaks of the coming Messiah as one who will seal the covenant of God with His people.</description>
+    </item>
+    
+    <item>
+      <title>A Wedding and a Seed</title>
+      <link>https://fbcmuncie.org/blog/2020/12/07/a-wedding-and-a-seed/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/12/07/a-wedding-and-a-seed/</guid>
+      <description>Advent is the season in which we await the coming of Jesus.</description>
+    </item>
+    
+    <item>
+      <title>Revealed Glory</title>
+      <link>https://fbcmuncie.org/video/2020/12/06/revealed-glory/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/12/06/revealed-glory/</guid>
+      <description>In this season of Advent, we celebrate the coming of Jesus.</description>
+    </item>
+    
+    <item>
+      <title>2020 End of Year Meeting</title>
+      <link>https://fbcmuncie.org/blog/2020/12/01/2020-end-of-year-meeting/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/12/01/2020-end-of-year-meeting/</guid>
+      <description>Greetings!
+I hope everyone had a wonderful Thanksgiving!</description>
+    </item>
+    
+    <item>
+      <title>Isaiah and Communion</title>
+      <link>https://fbcmuncie.org/blog/2020/11/30/isaiah-and-communion/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/11/30/isaiah-and-communion/</guid>
+      <description>We continue this week through the season of Advent.</description>
+    </item>
+    
+    <item>
+      <title>The Potter</title>
+      <link>https://fbcmuncie.org/video/2020/11/29/the-potter/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/11/29/the-potter/</guid>
+      <description>Advent is the season of waiting, yearning for God to show up.</description>
+    </item>
+    
+    <item>
+      <title>A Thankful Heart: Part 3</title>
+      <link>https://fbcmuncie.org/video/2020/11/22/a-thankful-heart-part-3/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/11/22/a-thankful-heart-part-3/</guid>
+      <description>As we approach Thanksgiving this week, it might be easy to lament the many trials of 2020.</description>
+    </item>
+    
+    <item>
+      <title>More Testimonies</title>
+      <link>https://fbcmuncie.org/blog/2020/11/16/more-testimonies/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/11/16/more-testimonies/</guid>
+      <description>As we continue our series on gratitude/thanksgiving this week, we will have more testimonies.</description>
+    </item>
+    
+    <item>
+      <title>A Thankful Heart: Part 2</title>
+      <link>https://fbcmuncie.org/video/2020/11/15/a-thankful-heart-part-2/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/11/15/a-thankful-heart-part-2/</guid>
+      <description>As we continue a brief series on gratitude, we consider Mary&amp;rsquo;s heart of thankfulness expressed in her response to the news of her pregnancy.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Update</title>
+      <link>https://fbcmuncie.org/blog/2020/11/15/covid-19-update/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/11/15/covid-19-update/</guid>
+      <description>FBC Family,
+We informed you earlier this week that the governor has given new guidelines for our state.</description>
+    </item>
+    
+    <item>
+      <title>Mary&#39;s Response</title>
+      <link>https://fbcmuncie.org/blog/2020/11/11/marys-response/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/11/11/marys-response/</guid>
+      <description>As we work our way toward Thanksgiving, we continue in a series on gratitude.</description>
+    </item>
+    
+    <item>
+      <title>A Thankful Heart: Part 1</title>
+      <link>https://fbcmuncie.org/video/2020/11/08/a-thankful-heart-part-1/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/11/08/a-thankful-heart-part-1/</guid>
+      <description>The psalmist in chapter 107 instructs the reader to thank God for his intense love and marvelous deeds.</description>
+    </item>
+    
+    <item>
+      <title>Thanking God in the Difficult</title>
+      <link>https://fbcmuncie.org/blog/2020/11/02/thanking-god-in-the-difficult/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/11/02/thanking-god-in-the-difficult/</guid>
+      <description>As we think back on this year, there have been many disappointments.</description>
+    </item>
+    
+    <item>
+      <title>Plank Eye</title>
+      <link>https://fbcmuncie.org/video/2020/11/01/plank-eye/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/11/01/plank-eye/</guid>
+      <description>As Jesus instructs his followers in Kingdom living, he uses a dramatic illustration.</description>
+    </item>
+    
+    <item>
+      <title>Judging Others</title>
+      <link>https://fbcmuncie.org/blog/2020/10/26/judging-others/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/10/26/judging-others/</guid>
+      <description>We come this Sunday to our last passage from our Sermon on the Mount series.</description>
+    </item>
+    
+    <item>
+      <title>Worry</title>
+      <link>https://fbcmuncie.org/video/2020/10/25/worry/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/10/25/worry/</guid>
+      <description>Jesus uses tangible, visible illustrations to remind us of God&amp;rsquo;s provision in our lives.</description>
+    </item>
+    
+    <item>
+      <title>One Day at a Time</title>
+      <link>https://fbcmuncie.org/blog/2020/10/19/one-day-at-a-time/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/10/19/one-day-at-a-time/</guid>
+      <description>As we continue to learn what it means to live in the Kingdom of God, Jesus addresses our concern for daily provisions.</description>
+    </item>
+    
+    <item>
+      <title>Treasure</title>
+      <link>https://fbcmuncie.org/video/2020/10/18/treasure/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/10/18/treasure/</guid>
+      <description>Jesus instructs us to be careful where we place our stockpiles, our treasures.</description>
+    </item>
+    
+    <item>
+      <title>Storing Treasure</title>
+      <link>https://fbcmuncie.org/blog/2020/10/12/storing-treasure/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/10/12/storing-treasure/</guid>
+      <description>As we continue to work out way through Matthew 6, we come, this week, to a familiar passage.</description>
+    </item>
+    
+    <item>
+      <title>Fasting 101</title>
+      <link>https://fbcmuncie.org/video/2020/10/11/fasting-101/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/10/11/fasting-101/</guid>
+      <description>Jesus continues to challenge the motives of our spiritual practices.</description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>https://fbcmuncie.org/blog/2020/10/05/motivation/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/10/05/motivation/</guid>
+      <description>Thank you to Caleb Rolling for preaching on Sunday.</description>
+    </item>
+    
+    <item>
+      <title>The Lord&#39;s Prayer</title>
+      <link>https://fbcmuncie.org/video/2020/10/04/the-lords-prayer/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/10/04/the-lords-prayer/</guid>
+      <description>In Matthew 6:5-15, Jesus teaches us how to pray.</description>
+    </item>
+    
+    <item>
+      <title>The Secret Place</title>
+      <link>https://fbcmuncie.org/video/2020/09/27/the-secret-place/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/09/27/the-secret-place/</guid>
+      <description>As we continue in our series on the Sermon on the Mount, Jesus challenges our motivation in giving and praying.</description>
+    </item>
+    
+    <item>
+      <title>In Secret</title>
+      <link>https://fbcmuncie.org/blog/2020/09/21/in-secret/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/09/21/in-secret/</guid>
+      <description>This past Sunday, we jumped back into our series on the Sermon on the Mount.</description>
+    </item>
+    
+    <item>
+      <title>Loving Our Enemies</title>
+      <link>https://fbcmuncie.org/video/2020/09/20/loving-our-enemies/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/09/20/loving-our-enemies/</guid>
+      <description>Jesus continues to challenge us in the Sermon on the Mount.</description>
+    </item>
+    
+    <item>
+      <title>Clerk Update</title>
+      <link>https://fbcmuncie.org/blog/2020/09/16/clerk-update/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/09/16/clerk-update/</guid>
+      <description>Greetings,
+As time goes on and things have settled down a bit, we find not much changing in the way of Sunday mornings at FBC.</description>
+    </item>
+    
+    <item>
+      <title>Loving Enemies</title>
+      <link>https://fbcmuncie.org/blog/2020/09/14/loving-enemies/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/09/14/loving-enemies/</guid>
+      <description>It was truly a joy to work with you through Paul&amp;rsquo;s letter to the church at Philippi over the past 11 weeks.</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>https://fbcmuncie.org/video/2020/09/13/thank-you/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/09/13/thank-you/</guid>
+      <description>As Paul closes his letter to the church at Philippi.</description>
+    </item>
+    
+    <item>
+      <title>Proper Gratitude</title>
+      <link>https://fbcmuncie.org/blog/2020/09/08/proper-gratitude/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/09/08/proper-gratitude/</guid>
+      <description>We come this week to last sermon in our series on Paul&amp;rsquo;s letter to the church at Philippi.</description>
+    </item>
+    
+    <item>
+      <title>Whatever Is</title>
+      <link>https://fbcmuncie.org/video/2020/09/06/whatever-is/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/09/06/whatever-is/</guid>
+      <description>As Paul instructs the church at Philippi to resist anxiety and accept the peace of God, he urges them to consider what they observe and meditate upon.</description>
+    </item>
+    
+    <item>
+      <title>Toward Peace</title>
+      <link>https://fbcmuncie.org/blog/2020/08/31/toward-peace/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/31/toward-peace/</guid>
+      <description>This past Sunday, I initially planned to cover Philippians 4:4-9.</description>
+    </item>
+    
+    <item>
+      <title>Anxiety</title>
+      <link>https://fbcmuncie.org/video/2020/08/30/anxiety/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/08/30/anxiety/</guid>
+      <description>Paul&amp;rsquo;s imprisonment is a difficult life circumstance; he is not sure if he will make it out alive.</description>
+    </item>
+    
+    <item>
+      <title>New Text-the-Church Info</title>
+      <link>https://fbcmuncie.org/blog/2020/08/25/new-text-the-church-info/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/25/new-text-the-church-info/</guid>
+      <description>Greetings!
+I hope you all had an excellent start to the week!</description>
+    </item>
+    
+    <item>
+      <title>Anxious Times</title>
+      <link>https://fbcmuncie.org/blog/2020/08/24/anxious-times/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/24/anxious-times/</guid>
+      <description>As we move toward the end of our study in Philippians (2 more weeks), we come to one of my favorite verses this week.</description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://fbcmuncie.org/video/2020/08/23/unity/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/08/23/unity/</guid>
+      <description>As we flip over to chapter 4 in our Philippians study, Paul addresses the church with deep affection.</description>
+    </item>
+    
+    <item>
+      <title>Making Up</title>
+      <link>https://fbcmuncie.org/blog/2020/08/17/making-up/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/17/making-up/</guid>
+      <description>It has been wonderful working through Philippians with you for the past several weeks.</description>
+    </item>
+    
+    <item>
+      <title>Imitators</title>
+      <link>https://fbcmuncie.org/video/2020/08/16/imitators/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/08/16/imitators/</guid>
+      <description>Paul has learned to reframe his perspective.</description>
+    </item>
+    
+    <item>
+      <title>Copy Me</title>
+      <link>https://fbcmuncie.org/blog/2020/08/10/copy-me/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/10/copy-me/</guid>
+      <description>This past Sunday, we had a few technical issues with the live stream.</description>
+    </item>
+    
+    <item>
+      <title>Friend of the Cross</title>
+      <link>https://fbcmuncie.org/video/2020/08/09/friend-of-the-cross/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/08/09/friend-of-the-cross/</guid>
+      <description>Paul calls out the methods of false teachers, highlights his resume in light of their tactics, but quickly crumbles it up and throws it away.</description>
+    </item>
+    
+    <item>
+      <title>Knowing Jesus</title>
+      <link>https://fbcmuncie.org/blog/2020/08/03/knowing-jesus/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/08/03/knowing-jesus/</guid>
+      <description>This past Sunday was the first Sunday back in the building.</description>
+    </item>
+    
+    <item>
+      <title>Models for Ministry</title>
+      <link>https://fbcmuncie.org/video/2020/08/02/models-for-ministry/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/08/02/models-for-ministry/</guid>
+      <description>The final verses in Philippians 2 (19-30) could be seen as minor instructions pertaining to Paul&amp;rsquo;s companions.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Update July 27th</title>
+      <link>https://fbcmuncie.org/blog/2020/07/27/covid-19-update-july-27th/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/07/27/covid-19-update-july-27th/</guid>
+      <description>Greetings!
+I don&amp;rsquo;t know about all of you, but I sure am learning a lot about myself in these last several months.</description>
+    </item>
+    
+    <item>
+      <title>Timothy and Epaphroditus</title>
+      <link>https://fbcmuncie.org/blog/2020/07/27/timothy-and-epaphroditus/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/07/27/timothy-and-epaphroditus/</guid>
+      <description>This Sunday is the first Sunday in August.</description>
+    </item>
+    
+    <item>
+      <title>Pleasing God Alone</title>
+      <link>https://fbcmuncie.org/video/2020/07/26/pleasing-god-alone/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/07/26/pleasing-god-alone/</guid>
+      <description>Paul&amp;rsquo;s desire to please God far outweighs his desire for his own comfort, status, or reputation.</description>
+    </item>
+    
+    <item>
+      <title>God First</title>
+      <link>https://fbcmuncie.org/blog/2020/07/20/god-first/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/07/20/god-first/</guid>
+      <description>I recently read a biography that featured Eric Liddell, the 1924 Olympic gold medalist who was portrayed in the movie Chariots of Fire.</description>
+    </item>
+    
+    <item>
+      <title>Posture of Humility</title>
+      <link>https://fbcmuncie.org/video/2020/07/19/posture-of-humility/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/07/19/posture-of-humility/</guid>
+      <description>Paul turns from a discussion about his imprisonment to instruction to the church at Philippi.</description>
+    </item>
+    
+    <item>
+      <title>Humility</title>
+      <link>https://fbcmuncie.org/blog/2020/07/13/humility/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/07/13/humility/</guid>
+      <description>As we continue to work our way through Paul&amp;rsquo;s letter to the church at Philippi, the tone of Paul&amp;rsquo;s language shifts in chapter 2.</description>
+    </item>
+    
+    <item>
+      <title>Whatever Happens</title>
+      <link>https://fbcmuncie.org/video/2020/07/12/whatever-happens/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/07/12/whatever-happens/</guid>
+      <description>As Paul writes to the church at Philippi, he is imprisoned with an uncertain fate.</description>
+    </item>
+    
+    <item>
+      <title>Advancing the Gospel</title>
+      <link>https://fbcmuncie.org/blog/2020/07/06/advancing-the-gospel/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/07/06/advancing-the-gospel/</guid>
+      <description>We enjoyed a wonderful time of being together in person on Sunday.</description>
+    </item>
+    
+    <item>
+      <title>Re-framing Our Perspective</title>
+      <link>https://fbcmuncie.org/video/2020/07/05/re-framing-our-perspective/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/07/05/re-framing-our-perspective/</guid>
+      <description>As we begin our study in Paul&amp;rsquo;s letter to the church at Philippi, we consider how he re-frames the difficult circumstances of his imprisonment as well as other church problems.</description>
+    </item>
+    
+    <item>
+      <title>Back to the Building</title>
+      <link>https://fbcmuncie.org/blog/2020/06/29/back-to-the-building/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/29/back-to-the-building/</guid>
+      <description>Each week, I typically send out a few sentences and this week&amp;rsquo;s passage for you to read ahead of time.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Update June 28</title>
+      <link>https://fbcmuncie.org/blog/2020/06/28/covid-19-update-june-28/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/28/covid-19-update-june-28/</guid>
+      <description>Greetings,
+As I write this, we are exactly one week away from our first in person worship service since March.</description>
+    </item>
+    
+    <item>
+      <title>Turn the Other Cheek</title>
+      <link>https://fbcmuncie.org/video/2020/06/28/turn-the-other-cheek/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/06/28/turn-the-other-cheek/</guid>
+      <description>Jesus&amp;rsquo; instructions to non-retaliation are perhaps the most difficult words in the Sermon on the Mount.</description>
+    </item>
+    
+    <item>
+      <title>Giving to the Enemy</title>
+      <link>https://fbcmuncie.org/blog/2020/06/24/giving-to-the-enemy/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/24/giving-to-the-enemy/</guid>
+      <description>Jesus&amp;rsquo; words in the Sermon on the Mount are not easy.</description>
+    </item>
+    
+    <item>
+      <title>Honesty</title>
+      <link>https://fbcmuncie.org/video/2020/06/21/honesty/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/06/21/honesty/</guid>
+      <description>In the Sermon on the Mount, Jesus forbids his followers from swearing.</description>
+    </item>
+    
+    <item>
+      <title>Honest</title>
+      <link>https://fbcmuncie.org/blog/2020/06/15/honest/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/15/honest/</guid>
+      <description>As we continue our series on the Sermon on the Mount, we also celebrate Father&amp;rsquo;s Day.</description>
+    </item>
+    
+    <item>
+      <title>Divorce</title>
+      <link>https://fbcmuncie.org/video/2020/06/14/divorce/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/06/14/divorce/</guid>
+      <description>Marriage and divorce are important and complicated issues throughout the Bible.</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Update June 11</title>
+      <link>https://fbcmuncie.org/blog/2020/06/11/covid-19-update-june-11/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/11/covid-19-update-june-11/</guid>
+      <description>Greetings!
+As we move into the summer months, we are approaching Stage 5 in Governor Holcomb’s plan.</description>
+    </item>
+    
+    <item>
+      <title>Ending Marriage</title>
+      <link>https://fbcmuncie.org/blog/2020/06/08/ending-marriage/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/08/ending-marriage/</guid>
+      <description>Have you or someone that is close to you experienced the pain of divorce?</description>
+    </item>
+    
+    <item>
+      <title>VBS 2020</title>
+      <link>https://fbcmuncie.org/blog/2020/06/08/vbs-2020/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/08/vbs-2020/</guid>
+      <description>Hi FBC families!
+We are so excited to announce that VBS WILL BE HAPPENING this year!</description>
+    </item>
+    
+    <item>
+      <title>Wisdom in the Chaos</title>
+      <link>https://fbcmuncie.org/video/2020/06/07/wisdom-in-the-chaos/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/06/07/wisdom-in-the-chaos/</guid>
+      <description>This has not been an easy year.</description>
+    </item>
+    
+    <item>
+      <title>Chaos</title>
+      <link>https://fbcmuncie.org/blog/2020/06/03/chaos/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/06/03/chaos/</guid>
+      <description>Over the past few months, we have all experienced tremendous life-altering events in our community, country, and world.</description>
+    </item>
+    
+    <item>
+      <title>Lust or Love</title>
+      <link>https://fbcmuncie.org/video/2020/05/31/lust-or-love/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/05/31/lust-or-love/</guid>
+      <description>Jesus calls his followers to radical adherence to the Law.</description>
+    </item>
+    
+    <item>
+      <title>Elevating Lust</title>
+      <link>https://fbcmuncie.org/blog/2020/05/25/elevating-lust/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/25/elevating-lust/</guid>
+      <description>This week we come to our sixth week of our Sermon on the Mount series.</description>
+    </item>
+    
+    <item>
+      <title>Anger</title>
+      <link>https://fbcmuncie.org/video/2020/05/24/anger/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/05/24/anger/</guid>
+      <description>As Jesus expands and fulfills the Law, he addresses specific topics.</description>
+    </item>
+    
+    <item>
+      <title>Extending the Law</title>
+      <link>https://fbcmuncie.org/blog/2020/05/18/extending-the-law/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/18/extending-the-law/</guid>
+      <description>It was good to worship with you all yesterday.</description>
+    </item>
+    
+    <item>
+      <title>The Law</title>
+      <link>https://fbcmuncie.org/video/2020/05/17/the-law/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/05/17/the-law/</guid>
+      <description>In Matthew 5:17-20, Jesus warns against throwing out the Old Testament in light of his life and ministry.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Update May 14</title>
+      <link>https://fbcmuncie.org/blog/2020/05/14/covid-19-update-may-14/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/14/covid-19-update-may-14/</guid>
+      <description>There have certainly been many changes for us over the last several weeks.</description>
+    </item>
+    
+    <item>
+      <title>Fulfilling the Law</title>
+      <link>https://fbcmuncie.org/blog/2020/05/11/fulfilling-the-law/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/11/fulfilling-the-law/</guid>
+      <description>It was wonderful to be able to gather live on Sunday to celebrate Mother&amp;rsquo;s Day.</description>
+    </item>
+    
+    <item>
+      <title>The Love of a Mother</title>
+      <link>https://fbcmuncie.org/video/2020/05/10/the-love-of-a-mother/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/05/10/the-love-of-a-mother/</guid>
+      <description>On Mother&amp;rsquo;s Day, we take a break from the Sermon on the Mount series to travel a bit further back in time.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Update May 4</title>
+      <link>https://fbcmuncie.org/blog/2020/05/04/covid-19-update-may-4/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/04/covid-19-update-may-4/</guid>
+      <description>Church Family,
+Most of you are probably aware of the updates the Governor made last Friday.</description>
+    </item>
+    
+    <item>
+      <title>Hannah</title>
+      <link>https://fbcmuncie.org/blog/2020/05/04/hannah/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/05/04/hannah/</guid>
+      <description>I wanted to remind you that we will be gathering via live stream this Sunday to celebrate Mother&amp;rsquo;s Day together.</description>
+    </item>
+    
+    <item>
+      <title>Kings and Priests</title>
+      <link>https://fbcmuncie.org/video/2020/05/03/kings-and-priests/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/05/03/kings-and-priests/</guid>
+      <description>The familiar passage about salt and light is often simplified into Jesus&amp;rsquo; followers serving as moral influencers in our broken world.</description>
+    </item>
+    
+    <item>
+      <title>Reading the Story</title>
+      <link>https://fbcmuncie.org/blog/2020/04/27/reading-the-story/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/27/reading-the-story/</guid>
+      <description>As we work out way through the Sermon on the Mount, we are building each week on Jesus&amp;rsquo; words in Matthew 5-7.</description>
+    </item>
+    
+    <item>
+      <title>Blessed by God</title>
+      <link>https://fbcmuncie.org/video/2020/04/26/blessed-by-god/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/04/26/blessed-by-god/</guid>
+      <description>As we come once again to the passage we call The Beatitudes, we consider how counter cultural and counter religious Jesus&amp;rsquo; description of his followers might seem.</description>
+    </item>
+    
+    <item>
+      <title>Blessings and Curses</title>
+      <link>https://fbcmuncie.org/blog/2020/04/20/blessings-and-curses/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/20/blessings-and-curses/</guid>
+      <description>A few months ago, we spent a Sunday studying the Beatitudes.</description>
+    </item>
+    
+    <item>
+      <title>The Teaching of Jesus</title>
+      <link>https://fbcmuncie.org/video/2020/04/19/the-teaching-of-jesus/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/04/19/the-teaching-of-jesus/</guid>
+      <description>As we prepare for our study on the Sermon on the Mount, we explore how to read this ever important section of Matthew&amp;rsquo;s gospel.</description>
+    </item>
+    
+    <item>
+      <title>Hillside Sermon</title>
+      <link>https://fbcmuncie.org/blog/2020/04/13/hillside-sermon/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/13/hillside-sermon/</guid>
+      <description>The participation in our Resurrection Sunday live stream was wonderful.</description>
+    </item>
+    
+    <item>
+      <title>Risen</title>
+      <link>https://fbcmuncie.org/video/2020/04/12/risen/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/04/12/risen/</guid>
+      <description>It is Resurrection Sunday and we gather to celebrate the Risen Christ.</description>
+    </item>
+    
+    <item>
+      <title>Holy Week</title>
+      <link>https://fbcmuncie.org/blog/2020/04/06/holy-week/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/06/holy-week/</guid>
+      <description>I could not be more pleased with the way that we are functioning in this season of social distancing.</description>
+    </item>
+    
+    <item>
+      <title>Palm Sunday</title>
+      <link>https://fbcmuncie.org/video/2020/04/05/palm-sunday/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/04/05/palm-sunday/</guid>
+      <description>As we begin Holy Week, we will walk through the story of Jesus&amp;rsquo; arrest and crucifixion.</description>
+    </item>
+    
+    <item>
+      <title>Update from the Clerk</title>
+      <link>https://fbcmuncie.org/blog/2020/04/03/update-from-the-clerk/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/03/update-from-the-clerk/</guid>
+      <description>The CCT met again this week.</description>
+    </item>
+    
+    <item>
+      <title>Palm Sunday</title>
+      <link>https://fbcmuncie.org/blog/2020/04/01/palm-sunday/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/04/01/palm-sunday/</guid>
+      <description>I hope this blog entry finds you well.</description>
+    </item>
+    
+    <item>
+      <title>Surrender: Our Will</title>
+      <link>https://fbcmuncie.org/video/2020/03/29/surrender-our-will/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/03/29/surrender-our-will/</guid>
+      <description>As we venture with Jesus into the Garden of Gethsemane, we explore Jesus&amp;rsquo; courageous prayer in contract to the failings of the disciples.</description>
+    </item>
+    
+    <item>
+      <title>CCT Updates</title>
+      <link>https://fbcmuncie.org/blog/2020/03/25/cct-updates/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/25/cct-updates/</guid>
+      <description>The CCT met again last night to discuss the recent stay at home order issued by Governor Holcomb.</description>
+    </item>
+    
+    <item>
+      <title>The Garden Prayer</title>
+      <link>https://fbcmuncie.org/blog/2020/03/24/the-garden-prayer/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/24/the-garden-prayer/</guid>
+      <description>It has been quite the week, wouldn&amp;rsquo;t you agree?</description>
+    </item>
+    
+    <item>
+      <title>Surrender: Resources</title>
+      <link>https://fbcmuncie.org/video/2020/03/22/surrender-resources/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/03/22/surrender-resources/</guid>
+      <description>The story of the rich young man in Matthew 19 challenges our understanding of wealth.</description>
+    </item>
+    
+    <item>
+      <title>Impossible Request</title>
+      <link>https://fbcmuncie.org/blog/2020/03/18/impossible-request/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/18/impossible-request/</guid>
+      <description>This week has been quite the week.</description>
+    </item>
+    
+    <item>
+      <title>March 18 COVID-19 Update</title>
+      <link>https://fbcmuncie.org/blog/2020/03/18/march-18-covid-19-update/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/18/march-18-covid-19-update/</guid>
+      <description>The CCT met last night to discuss worship services, building usage, and planned activities in light of the CDC recommendations for social distancing.</description>
+    </item>
+    
+    <item>
+      <title>Surrender Our Fear</title>
+      <link>https://fbcmuncie.org/video/2020/03/15/surrender-our-fear/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/03/15/surrender-our-fear/</guid>
+      <description>In this video podcast, our pastor addresses the congregation at First Baptist Church in Muncie in the wake of the 2020 Coronavirus pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Surrendering Our Money</title>
+      <link>https://fbcmuncie.org/blog/2020/03/09/surrendering-our-money/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/09/surrendering-our-money/</guid>
+      <description>This past Sunday was a wonderful celebration of children, baptism, and Northern Seminary.</description>
+    </item>
+    
+    <item>
+      <title>Surrender: Children</title>
+      <link>https://fbcmuncie.org/video/2020/03/08/surrender-children/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/03/08/surrender-children/</guid>
+      <description>Northern Seminary President Bill Shiell preaches on Jesus&amp;rsquo; teaching about children.</description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>https://fbcmuncie.org/blog/2020/03/02/children/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/03/02/children/</guid>
+      <description>As we approach the second Sunday in the season of Lent, we are anticipating a wonderful worship service.</description>
+    </item>
+    
+    <item>
+      <title>Surrender: Forgiveness</title>
+      <link>https://fbcmuncie.org/video/2020/03/01/surrender-forgiveness/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/03/01/surrender-forgiveness/</guid>
+      <description>Peter asks Jesus an honest question.</description>
+    </item>
+    
+    <item>
+      <title>To Forgive</title>
+      <link>https://fbcmuncie.org/blog/2020/02/24/to-forgive/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/02/24/to-forgive/</guid>
+      <description>This Sunday is the first Sunday in the season of Lent.</description>
+    </item>
+    
+    <item>
+      <title>The Transfiguration</title>
+      <link>https://fbcmuncie.org/video/2020/02/23/the-transfiguration/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/02/23/the-transfiguration/</guid>
+      <description>The season of Epiphany ends with the story of the Transfiguration.</description>
+    </item>
+    
+    <item>
+      <title>Transfiguration Sunday</title>
+      <link>https://fbcmuncie.org/blog/2020/02/17/transfiguration-sunday/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/02/17/transfiguration-sunday/</guid>
+      <description>This Sunday is last Sunday in the season of Epiphany.</description>
+    </item>
+    
+    <item>
+      <title>The Heart</title>
+      <link>https://fbcmuncie.org/video/2020/02/16/the-heart/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/02/16/the-heart/</guid>
+      <description>In the season of Valentine&amp;rsquo;s Day, we think a lot about hearts.</description>
+    </item>
+    
+    <item>
+      <title>Outward Appearances</title>
+      <link>https://fbcmuncie.org/blog/2020/02/10/outward-appearances/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/02/10/outward-appearances/</guid>
+      <description>We continue to work our way through Matthew&amp;rsquo;s gospel in this season of Epiphany.</description>
+    </item>
+    
+    <item>
+      <title>Well Seasoned</title>
+      <link>https://fbcmuncie.org/video/2020/02/09/well-seasoned/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/02/09/well-seasoned/</guid>
+      <description>In Matthew 5:13-16, Jesus challenges His followers to be salt and light.</description>
+    </item>
+    
+    <item>
+      <title>Impacting Our World</title>
+      <link>https://fbcmuncie.org/blog/2020/02/03/impacting-our-world/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/02/03/impacting-our-world/</guid>
+      <description>Through the season of Epiphany, we have been moving together in the life of Jesus.</description>
+    </item>
+    
+    <item>
+      <title>Sermon on the Mount</title>
+      <link>https://fbcmuncie.org/video/2020/02/02/sermon-on-the-mount/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/02/02/sermon-on-the-mount/</guid>
+      <description>Jesus gathers his disciples on a mountainside to teach them about true happiness.</description>
+    </item>
+    
+    <item>
+      <title>Blessed</title>
+      <link>https://fbcmuncie.org/blog/2020/01/27/blessed/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/01/27/blessed/</guid>
+      <description>I was greatly encouraged by the response on Sunday morning.</description>
+    </item>
+    
+    <item>
+      <title>Leave Your Nets</title>
+      <link>https://fbcmuncie.org/video/2020/01/26/leave-your-nets/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/01/26/leave-your-nets/</guid>
+      <description>In Matthew 4:12-23 Jesus leaves his hometown to begin his ministry.</description>
+    </item>
+    
+    <item>
+      <title>Suprise Calling</title>
+      <link>https://fbcmuncie.org/blog/2020/01/21/suprise-calling/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/01/21/suprise-calling/</guid>
+      <description>I would like to thank Caleb Rolling for preaching this past weekend.</description>
+    </item>
+    
+    <item>
+      <title>The Supremacy of Christ</title>
+      <link>https://fbcmuncie.org/video/2020/01/19/the-supremacy-of-christ/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/01/19/the-supremacy-of-christ/</guid>
+      <description>Caleb Rolling is a student at Taylor University.</description>
+    </item>
+    
+    <item>
+      <title>A Lesson in Humility</title>
+      <link>https://fbcmuncie.org/video/2020/01/12/a-lesson-in-humility/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/01/12/a-lesson-in-humility/</guid>
+      <description>John the Baptist was deemed the greatest man every born by Jesus.</description>
+    </item>
+    
+    <item>
+      <title>Baptism</title>
+      <link>https://fbcmuncie.org/blog/2020/01/06/baptism/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/01/06/baptism/</guid>
+      <description>As we continue to move through the season of Epiphany, we come to one of first stories recorded in Jesus&amp;rsquo; adult life.</description>
+    </item>
+    
+    <item>
+      <title>Way of the Wise Men</title>
+      <link>https://fbcmuncie.org/video/2020/01/05/way-of-the-wise-men/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/video/2020/01/05/way-of-the-wise-men/</guid>
+      <description>On this first Sunday of Epiphany, we consider the journey of the wise men.</description>
+    </item>
+    
+    <item>
+      <title>Magi</title>
+      <link>https://fbcmuncie.org/blog/2020/01/01/magi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/blog/2020/01/01/magi/</guid>
+      <description>I hope that you all had a wonderful new year.</description>
+    </item>
+    
+    <item>
+      <title>Affiliations</title>
+      <link>https://fbcmuncie.org/affiliations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/affiliations/</guid>
+      <description>We are affiliated with the American Baptist Churches/USA and the American Baptist Churches of Indiana and Kentucky.</description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://fbcmuncie.org/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/architecture/</guid>
+      <description>Original Rendering 1927   The Late Gothic Revival building was designed by Samuel Hannaford and Sons and constructed in 1928–1929 by Morrow and Morrow.</description>
+    </item>
+    
+    <item>
+      <title>Church App</title>
+      <link>https://fbcmuncie.org/app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Church App Content</title>
+      <link>https://fbcmuncie.org/app-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/app-content/</guid>
+      <description>Join us for worship
+November 01, 2020 at 10:45 AM</description>
+    </item>
+    
+    <item>
+      <title>Constitution</title>
+      <link>https://fbcmuncie.org/constitution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/constitution/</guid>
+      <description>We have Bylaws and a Constitution that was revised and updated in 2019.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fbcmuncie.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giving</title>
+      <link>https://fbcmuncie.org/giving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/giving/</guid>
+      <description>   Give Online    </description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://fbcmuncie.org/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/history/</guid>
+      <description>Beginnings 1859 On September 10, 1859, twelve Indiana residents, four men and eight women, became the charter members of the Baptist Church in Muncie, Indiana, a community of 1700 residents.</description>
+    </item>
+    
+    <item>
+      <title>Live</title>
+      <link>https://fbcmuncie.org/live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membership</title>
+      <link>https://fbcmuncie.org/membership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/membership/</guid>
+      <description>There are two types of membership at First Baptist.</description>
+    </item>
+    
+    <item>
+      <title>Reserve</title>
+      <link>https://fbcmuncie.org/reserve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/reserve/</guid>
+      <description>Perhaps you are interesting in using the building.</description>
+    </item>
+    
+    <item>
+      <title>Story Project</title>
+      <link>https://fbcmuncie.org/story-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/story-project/</guid>
+      <description>A big thank-you to everyone who had a hand in putting together We Are the Clay, the book of stories that resulted from our year of work on the Story Project.</description>
+    </item>
+    
+    <item>
+      <title>The Visitor</title>
+      <link>https://fbcmuncie.org/visitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/visitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://fbcmuncie.org/vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/vision/</guid>
+      <description>First Baptist Church in Muncie has been serving our community since 1859.</description>
+    </item>
+    
+    <item>
+      <title>Weddings</title>
+      <link>https://fbcmuncie.org/weddings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/weddings/</guid>
+      <description>For more information on availability, please contact Christy Allen, Wedding Coordinator, at 765-717-5229.</description>
+    </item>
+    
+    <item>
+      <title>Worship</title>
+      <link>https://fbcmuncie.org/worship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fbcmuncie.org/worship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
